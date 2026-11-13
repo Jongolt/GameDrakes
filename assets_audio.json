@@ -1,0 +1,416 @@
+{
+ "own_amb_day": {
+  "assetId": "106031956579517",
+  "moderation": "Approved",
+  "operation": "operations/9f67465b-720c-49bb-bb6a-db3c42a1adcf",
+  "file": "amb_day.mp3",
+  "upload_s": 4.1,
+  "utc": "2026-10-17T20:15:35Z",
+  "grant": 200
+ },
+ "own_amb_night": {
+  "assetId": "78345991216876",
+  "moderation": "Approved",
+  "operation": "operations/fb7be88b-df09-40e4-98dc-c37a96dcb1a7",
+  "file": "amb_night.mp3",
+  "upload_s": 4.1,
+  "utc": "2026-10-17T20:15:41Z",
+  "grant": 200
+ },
+ "own_amb_rain": {
+  "assetId": "90579678369043",
+  "moderation": "Approved",
+  "operation": "operations/f7a6d1d9-283a-4593-90e3-16bba85c871e",
+  "file": "amb_rain.mp3",
+  "upload_s": 4.0,
+  "utc": "2026-10-17T20:15:46Z",
+  "grant": 200
+ },
+ "own_amb_wind": {
+  "assetId": "116868106606178",
+  "moderation": "Approved",
+  "operation": "operations/cc1e59de-6270-46f5-be38-fc6f5b607067",
+  "file": "amb_wind.mp3",
+  "upload_s": 4.0,
+  "utc": "2026-10-17T20:15:52Z",
+  "grant": 200
+ },
+ "own_boss": {
+  "assetId": "108971949530942",
+  "moderation": "Approved",
+  "operation": "operations/4d3b8d87-defc-4d66-8554-229a933ddfe1",
+  "file": "boss.mp3",
+  "upload_s": 4.3,
+  "utc": "2026-10-17T20:15:57Z",
+  "grant": 200
+ },
+ "own_dawn": {
+  "assetId": "83041706646709",
+  "moderation": "Approved",
+  "operation": "operations/50997373-cb47-46ef-b9ed-4a5256f6c5e9",
+  "file": "dawn.mp3",
+  "upload_s": 4.3,
+  "utc": "2026-10-17T20:16:03Z",
+  "grant": 200
+ },
+ "own_day1": {
+  "assetId": "133250019535765",
+  "moderation": "Approved",
+  "operation": "operations/5e263744-1975-4383-8271-c2088c36f073",
+  "file": "day1.mp3",
+  "upload_s": 7.6,
+  "utc": "2026-10-17T20:16:12Z",
+  "grant": 200
+ },
+ "own_day2": {
+  "assetId": "113328248415695",
+  "moderation": "Approved",
+  "operation": "operations/19e79afe-04da-43dd-a127-3971907a5be1",
+  "file": "day2.mp3",
+  "upload_s": 7.6,
+  "utc": "2026-10-17T20:16:21Z",
+  "grant": 200
+ },
+ "own_day3": {
+  "assetId": "75961667271057",
+  "moderation": "Approved",
+  "operation": "operations/bd533c06-a784-49ff-9f15-99c98c1499f4",
+  "file": "day3.mp3",
+  "upload_s": 7.6,
+  "utc": "2026-10-17T20:16:30Z",
+  "grant": 200
+ },
+ "own_dusk": {
+  "assetId": "109650966181301",
+  "moderation": "Approved",
+  "operation": "operations/e0a48dea-c89b-4ff4-a406-050a6fd379aa",
+  "file": "dusk.mp3",
+  "upload_s": 4.3,
+  "utc": "2026-10-17T20:16:35Z",
+  "grant": 200
+ },
+ "own_flight1": {
+  "assetId": "77904242044822",
+  "moderation": "Approved",
+  "operation": "operations/ad7d278e-706c-40b0-9935-aa4f0813d99c",
+  "file": "flight1.mp3",
+  "upload_s": 4.2,
+  "utc": "2026-10-17T20:16:41Z",
+  "grant": 200
+ },
+ "own_flight2": {
+  "assetId": "84382376686102",
+  "moderation": "Approved",
+  "operation": "operations/47eedd4f-008c-4820-ba1b-40afbe6b81f7",
+  "file": "flight2.mp3",
+  "upload_s": 4.2,
+  "utc": "2026-10-17T20:16:46Z",
+  "grant": 200
+ },
+ "own_intro": {
+  "assetId": "104807571025450",
+  "moderation": "Approved",
+  "operation": "operations/63835d20-beae-4be6-b384-ea17b38bb52a",
+  "file": "intro.mp3",
+  "upload_s": 4.3,
+  "utc": "2026-10-17T20:16:52Z",
+  "grant": 200
+ },
+ "own_night1": {
+  "assetId": "120095147261986",
+  "moderation": "Approved",
+  "operation": "operations/10d9682a-f777-44e5-9b7f-71f4112942ad",
+  "file": "night1.mp3",
+  "upload_s": 4.2,
+  "utc": "2026-10-17T20:16:57Z",
+  "grant": 200
+ },
+ "own_night2": {
+  "assetId": "76523040566052",
+  "moderation": "Approved",
+  "operation": "operations/57114118-fc19-4654-a6d0-7c44f2958675",
+  "file": "night2.mp3",
+  "upload_s": 7.6,
+  "utc": "2026-10-17T20:17:06Z",
+  "grant": 200
+ },
+ "own_starfall": {
+  "assetId": "84793389902575",
+  "moderation": "Approved",
+  "operation": "operations/557f6533-6410-45c8-8196-15530a0cc5a0",
+  "file": "starfall.mp3",
+  "upload_s": 4.2,
+  "utc": "2026-10-17T20:17:12Z",
+  "grant": 200
+ },
+ "own_storm": {
+  "assetId": "100942622243661",
+  "moderation": "Approved",
+  "operation": "operations/3cd2557f-7fe8-48d6-9bdd-0a59aa2a7b6e",
+  "file": "storm.mp3",
+  "upload_s": 4.3,
+  "utc": "2026-10-17T20:17:18Z",
+  "grant": 200
+ },
+ "sfx_hatch_Common": {
+  "assetId": "115474718364651",
+  "moderation": "Approved",
+  "operation": "operations/b6c12a84-aa95-4714-9897-cbdd48a93dee",
+  "file": "hatch_Common.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:38:10Z",
+  "grant": 200
+ },
+ "sfx_hatch_Epic": {
+  "assetId": "86122252728776",
+  "moderation": "Approved",
+  "operation": "operations/17f8e0c0-a4fd-4d7d-ad46-4866b395f808",
+  "file": "hatch_Epic.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:38:15Z",
+  "grant": 200
+ },
+ "sfx_hatch_Legendary": {
+  "assetId": "115070505832733",
+  "moderation": "Approved",
+  "operation": "operations/ef4ee385-13e6-4846-ad2d-05c355579bb4",
+  "file": "hatch_Legendary.mp3",
+  "upload_s": 4.1,
+  "utc": "2026-10-17T21:38:21Z",
+  "grant": 200
+ },
+ "sfx_hatch_Mythic": {
+  "assetId": "83456271944188",
+  "moderation": "Approved",
+  "operation": "operations/33715cb0-043b-4a16-a75b-46732817264e",
+  "file": "hatch_Mythic.mp3",
+  "upload_s": 4.0,
+  "utc": "2026-10-17T21:38:26Z",
+  "grant": 200
+ },
+ "sfx_hatch_Rare": {
+  "assetId": "91394985075498",
+  "moderation": "Approved",
+  "operation": "operations/8ac93aec-87a4-4612-9f86-f4389c9fdc28",
+  "file": "hatch_Rare.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:38:31Z",
+  "grant": 200
+ },
+ "sfx_hatch_Uncommon": {
+  "assetId": "116660858218914",
+  "moderation": "Approved",
+  "operation": "operations/dc4df977-2012-4ed5-bbca-57a09f33e431",
+  "file": "hatch_Uncommon.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:38:37Z",
+  "grant": 200
+ },
+ "sfx_sfx_egg_crack": {
+  "assetId": "86977145190861",
+  "moderation": "Approved",
+  "operation": "operations/b74fb65a-0921-4f31-9799-7b684528938b",
+  "file": "sfx_egg_crack.mp3",
+  "upload_s": 3.8,
+  "utc": "2026-10-17T21:38:42Z",
+  "grant": 200
+ },
+ "sfx_sfx_feed": {
+  "assetId": "118124515902317",
+  "moderation": "Approved",
+  "operation": "operations/2771ebf5-a8c3-4ef2-be52-8421a1edd2a4",
+  "file": "sfx_feed.mp3",
+  "upload_s": 3.8,
+  "utc": "2026-10-17T21:38:47Z",
+  "grant": 200
+ },
+ "sfx_sfx_land": {
+  "assetId": "116627487741894",
+  "moderation": "Approved",
+  "operation": "operations/1d7155fd-4b86-4ffe-a914-d11c1c8db15b",
+  "file": "sfx_land.mp3",
+  "upload_s": 3.8,
+  "utc": "2026-10-17T21:38:52Z",
+  "grant": 200
+ },
+ "sfx_sfx_wing": {
+  "assetId": "131212778927231",
+  "moderation": "Approved",
+  "operation": "operations/f516f15d-a937-4a84-9c28-ca64335ff5b0",
+  "file": "sfx_wing.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:38:57Z",
+  "grant": 200
+ },
+ "sfx_v_a_call1": {
+  "assetId": "91157711041075",
+  "moderation": "Approved",
+  "operation": "operations/296e384a-1bdd-4ad8-bdfa-950cc2115ae1",
+  "file": "v_a_call1.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:39:03Z",
+  "grant": 200
+ },
+ "sfx_v_a_call2": {
+  "assetId": "97670463547892",
+  "moderation": "Approved",
+  "operation": "operations/b7652b39-039e-46e0-8db0-fc62b38193cf",
+  "file": "v_a_call2.mp3",
+  "upload_s": 4.0,
+  "utc": "2026-10-17T21:39:08Z",
+  "grant": 200
+ },
+ "sfx_v_a_call4": {
+  "assetId": "115177821780890",
+  "moderation": "Approved",
+  "operation": "operations/e105b0cc-3010-449e-bed8-477b998d93a5",
+  "file": "v_a_call4.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:39:13Z",
+  "grant": 200
+ },
+ "sfx_v_a_happy1": {
+  "assetId": "91590555067176",
+  "moderation": "Approved",
+  "operation": "operations/9ce29612-18b0-494c-bf12-2b0e13975bc4",
+  "file": "v_a_happy1.mp3",
+  "upload_s": 3.8,
+  "utc": "2026-10-17T21:39:18Z",
+  "grant": 200
+ },
+ "sfx_v_a_roar1": {
+  "assetId": "114973683329586",
+  "moderation": "Approved",
+  "operation": "operations/25bde954-ccff-42af-9487-2f4ed243ec98",
+  "file": "v_a_roar1.mp3",
+  "upload_s": 4.1,
+  "utc": "2026-10-17T21:39:24Z",
+  "grant": 200
+ },
+ "sfx_v_a_roar2": {
+  "assetId": "125142697628446",
+  "moderation": "Approved",
+  "operation": "operations/77408713-47e6-49bd-a7fe-1fffe4bce67b",
+  "file": "v_a_roar2.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:39:29Z",
+  "grant": 200
+ },
+ "sfx_v_h_birth": {
+  "assetId": "127080898886915",
+  "moderation": "Approved",
+  "operation": "operations/11dd2c90-02b7-4931-870a-6792d2d0e026",
+  "file": "v_h_birth.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:39:34Z",
+  "grant": 200
+ },
+ "sfx_v_h_call1": {
+  "assetId": "122817533334296",
+  "moderation": "Approved",
+  "operation": "operations/d8c602a8-4c68-4bbb-81ac-6dee8aa6ab2c",
+  "file": "v_h_call1.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:39:40Z",
+  "grant": 200
+ },
+ "sfx_v_h_call2": {
+  "assetId": "73056873834982",
+  "moderation": "Approved",
+  "operation": "operations/4181e48b-1f84-4a4c-a0b6-ab95a3c23ab0",
+  "file": "v_h_call2.mp3",
+  "upload_s": 4.0,
+  "utc": "2026-10-17T21:39:45Z",
+  "grant": 200
+ },
+ "sfx_v_h_call3": {
+  "assetId": "111649596990896",
+  "moderation": "Approved",
+  "operation": "operations/35968038-5544-4ca3-bd8c-54f3a66a5752",
+  "file": "v_h_call3.mp3",
+  "upload_s": 3.8,
+  "utc": "2026-10-17T21:39:50Z",
+  "grant": 200
+ },
+ "sfx_v_h_happy1": {
+  "assetId": "122230342003509",
+  "moderation": "Approved",
+  "operation": "operations/4769930d-b8ac-4655-bda7-d9944c8c3b65",
+  "file": "v_h_happy1.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:39:55Z",
+  "grant": 200
+ },
+ "sfx_v_h_happy2": {
+  "assetId": "83991000984846",
+  "moderation": "Approved",
+  "operation": "operations/70cbd682-6afc-43ce-8ccf-281917269f5f",
+  "file": "v_h_happy2.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:40:01Z",
+  "grant": 200
+ },
+ "sfx_v_j_call1": {
+  "assetId": "135816909949856",
+  "moderation": "Approved",
+  "operation": "operations/0eafb9cc-d3ec-443b-8850-cabf1dc43f98",
+  "file": "v_j_call1.mp3",
+  "upload_s": 3.9,
+  "utc": "2026-10-17T21:40:06Z",
+  "grant": 200
+ },
+ "own_fight_A": {
+  "assetId": "70406877413972",
+  "moderation": "Approved",
+  "operation": "operations/238e0eb7-d58e-46ee-8a39-a4050ca4b3de",
+  "file": "fight_A.mp3",
+  "upload_s": 4.6,
+  "utc": "2026-10-27T19:43:35Z",
+  "grant": 200
+ },
+ "own_fight_B": {
+  "assetId": "76564938505756",
+  "moderation": "Approved",
+  "operation": "operations/49e19bdb-951e-4772-96c6-6a7a30f80113",
+  "file": "fight_B.mp3",
+  "upload_s": 4.2,
+  "utc": "2026-10-27T19:43:41Z",
+  "grant": 200
+ },
+ "own_fight_C": {
+  "assetId": "122122871722371",
+  "moderation": "Approved",
+  "operation": "operations/a3965c89-ed13-48c7-8d9c-a7d05bcbb20c",
+  "file": "fight_C.mp3",
+  "upload_s": 4.9,
+  "utc": "2026-10-27T19:43:47Z",
+  "grant": 200
+ },
+ "own_fight_win_A": {
+  "assetId": "88533814202542",
+  "moderation": "Approved",
+  "operation": "operations/79ff1c9d-d33a-433c-9f0a-b74402374e70",
+  "file": "fight_win_A.mp3",
+  "upload_s": 4.0,
+  "utc": "2026-10-27T22:18:49Z",
+  "grant": 200
+ },
+ "own_fight_win_C": {
+  "assetId": "115216657381233",
+  "moderation": "Approved",
+  "operation": "operations/c7f57b31-70df-463e-827e-e51fa6a098f9",
+  "file": "fight_win_C.mp3",
+  "upload_s": 4.5,
+  "utc": "2026-10-27T22:18:55Z",
+  "grant": 200
+ },
+ "mus_chase_P2": {
+  "assetId": "118258729946884",
+  "moderation": "Approved",
+  "operation": "operations/b6c69143-a2f8-477e-842a-6441e642fc6a",
+  "file": "chase_P2.mp3",
+  "upload_s": 4.0,
+  "utc": "2026-10-31T21:50:04Z",
+  "grant": 200
+ }
+}

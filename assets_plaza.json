@@ -1,0 +1,42 @@
+{
+ "plaza_plaza_v1": {
+  "assetId": "106799585907621",
+  "moderation": "Approved",
+  "operation": "operations/cc8b2833-0906-4926-bcdc-f496d84fd7b7",
+  "file": "plaza_v1.glb",
+  "upload_s": 24.0,
+  "utc": "09:48:54"
+ },
+ "plaza_plaza_v2": {
+  "assetId": "96945467492028",
+  "moderation": "Approved",
+  "operation": "operations/1c120203-0f7a-47bb-a30a-8b50cf7f8edb",
+  "file": "plaza_v2.glb",
+  "upload_s": 17.6,
+  "utc": "10:06:30"
+ },
+ "plaza_plaza_v3": {
+  "assetId": "85753382079588",
+  "moderation": "Approved",
+  "operation": "operations/341f3a6c-5847-4bae-9c64-5a3a082ba9c4",
+  "file": "plaza_v3.glb",
+  "upload_s": 17.5,
+  "utc": "10:14:07"
+ },
+ "plaza_plaza_v4": {
+  "assetId": "140199902996606",
+  "moderation": "Approved",
+  "operation": "operations/8ab75325-58e1-4776-a26e-5239b9b7121d",
+  "file": "plaza_v4.glb",
+  "upload_s": 20.9,
+  "utc": "10:35:36"
+ },
+ "plaza_plaza_v5": {
+  "assetId": "111526844671795",
+  "moderation": "Approved",
+  "operation": "operations/8d729cb6-e893-4da3-a56c-cf090e3bb091",
+  "file": "plaza_v5.glb",
+  "upload_s": 14.2,
+  "utc": "10:41:20"
+ }
+}

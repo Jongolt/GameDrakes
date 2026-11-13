@@ -1,0 +1,34 @@
+{
+ "springs_springs_v1": {
+  "assetId": "83198480217387",
+  "moderation": "Approved",
+  "operation": "operations/af5005c9-cc12-4756-b970-7add6a887d82",
+  "file": "springs_v1.glb",
+  "upload_s": 17.7,
+  "utc": "12:19:15"
+ },
+ "springs_springs_v2": {
+  "assetId": "134971782333458",
+  "moderation": "Approved",
+  "operation": "operations/65c0597e-94a1-4c46-be60-d4c5952f89db",
+  "file": "springs_v2.glb",
+  "upload_s": 17.5,
+  "utc": "12:33:29"
+ },
+ "springs_springs_v3": {
+  "assetId": "131082302631795",
+  "moderation": "Approved",
+  "operation": "operations/2ecd651a-2e04-4752-afa9-7e4f5a355f32",
+  "file": "springs_v3.glb",
+  "upload_s": 17.3,
+  "utc": "12:44:58"
+ },
+ "springs_springs_v4": {
+  "assetId": "122801100393805",
+  "moderation": "Approved",
+  "operation": "operations/b774a9d2-a988-420c-a432-27fb3167891a",
+  "file": "springs_v4.glb",
+  "upload_s": 13.3,
+  "utc": "13:26:48"
+ }
+}

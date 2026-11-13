@@ -1,0 +1,333 @@
+{
+ "_about": "Our es/pt/de/fr for the passes, products and badges on Roblox (Roblox translates them by machine, in its own words, not like our shop). The key is the English text from monetize.py CATALOG / the badge descriptions; the product names are assembled by tools/loc_items.py from the shop translations (locales/<lang>.csv), here - only what the game does not have. Dragon names and VIP are not translated. fr: the Roblox filter rejects 'derrière toi' (derrière also means 'behind' in the rude sense) - use 'qui te suit en vol'; the non-breaking space from fr.csv is rejected too (loc_items.py replaces it with a normal one).",
+ "time": {
+  "1 min": {
+   "es": "1 min",
+   "pt": "1 min",
+   "de": "1 min",
+   "fr": "1 min"
+  },
+  "5 min": {
+   "es": "5 min",
+   "pt": "5 min",
+   "de": "5 min",
+   "fr": "5 min"
+  },
+  "20 min": {
+   "es": "20 min",
+   "pt": "20 min",
+   "de": "20 min",
+   "fr": "20 min"
+  },
+  "30 min": {
+   "es": "30 min",
+   "pt": "30 min",
+   "de": "30 min",
+   "fr": "30 min"
+  },
+  "1 hour": {
+   "es": "1 hora",
+   "pt": "1 hora",
+   "de": "1 Stunde",
+   "fr": "1 heure"
+  },
+  "any": {
+   "es": "sin límite",
+   "pt": "sem limite",
+   "de": "ohne Limit",
+   "fr": "sans limite"
+  },
+  "1 h": {
+   "es": "1 h",
+   "pt": "1 h",
+   "de": "1 h",
+   "fr": "1 h"
+  },
+  "2 h": {
+   "es": "2 h",
+   "pt": "2 h",
+   "de": "2 h",
+   "fr": "2 h"
+  },
+  "4 h": {
+   "es": "4 h",
+   "pt": "4 h",
+   "de": "4 h",
+   "fr": "4 h"
+  },
+  "24 h": {
+   "es": "24 h",
+   "pt": "24 h",
+   "de": "24 h",
+   "fr": "24 h"
+  }
+ },
+ "gift": {
+  "name": {
+   "es": "Regalo: {name}",
+   "pt": "Presente: {name}",
+   "de": "Geschenk: {name}",
+   "fr": "Cadeau : {name}"
+  },
+  "description": {
+   "es": "Envía {name} a otro jugador de este servidor.",
+   "pt": "Envie {name} para outro jogador deste servidor.",
+   "de": "Schenke {name} einem anderen Spieler auf diesem Server.",
+   "fr": "Offre {name} à un autre joueur de ce serveur."
+  }
+ },
+ "descriptions": {
+  "A Legendary Dusk hatchling. One per account.": {
+   "es": "Una cría Dusk legendaria. Una por cuenta.",
+   "pt": "Um filhote Dusk lendário. Um por conta.",
+   "de": "Ein legendärer Dusk-Schlüpfling. Einer pro Konto.",
+   "fr": "Un bébé Dusk légendaire. Un par compte."
+  },
+  "A treat finishes half of a dragon's growth timer.": {
+   "es": "Una golosina termina la mitad del tiempo de crecimiento de un dragón.",
+   "pt": "Um petisco termina metade do tempo de crescimento de um dragão.",
+   "de": "Ein Leckerli erledigt die Hälfte des Wachstums-Timers eines Drachen.",
+   "fr": "Une friandise termine la moitié du temps de croissance d'un dragon."
+  },
+  "A warm color preset for one dragon.": {
+   "es": "Un color cálido para un dragón.",
+   "pt": "Uma cor quente para um dragão.",
+   "de": "Eine warme Farbe für einen Drachen.",
+   "fr": "Une couleur chaude pour un dragon."
+  },
+  "An Epic Ember hatchling with glowing cinder colors. One per account.": {
+   "es": "Una cría Ember épica con colores de ceniza brillante. Una por cuenta.",
+   "pt": "Um filhote Ember épico com cores de brasa brilhante. Um por conta.",
+   "de": "Ein epischer Ember-Schlüpfling mit glühenden Aschefarben. Einer pro Konto.",
+   "fr": "Un bébé Ember épique aux couleurs de braise lumineuse. Un par compte."
+  },
+  "Coins equal to your nest income for 1 hour, at your current rate.": {
+   "es": "Monedas iguales a los ingresos de tu nido durante 1 hora, a tu ritmo actual.",
+   "pt": "Moedas iguais à renda do seu ninho por 1 hora, no seu ritmo atual.",
+   "de": "Münzen in Höhe deines Nesteinkommens für 1 Stunde, bei deiner aktuellen Rate.",
+   "fr": "Des pièces égales aux revenus de ton nid pendant 1 heure, à ton rythme actuel."
+  },
+  "Coins equal to your nest income for 4 hours, at your current rate.": {
+   "es": "Monedas iguales a los ingresos de tu nido durante 4 horas, a tu ritmo actual.",
+   "pt": "Moedas iguais à renda do seu ninho por 4 horas, no seu ritmo atual.",
+   "de": "Münzen in Höhe deines Nesteinkommens für 4 Stunden, bei deiner aktuellen Rate.",
+   "fr": "Des pièces égales aux revenus de ton nid pendant 4 heures, à ton rythme actuel."
+  },
+  "Coins equal to your nest income for 24 hours, at your current rate.": {
+   "es": "Monedas iguales a los ingresos de tu nido durante 24 horas, a tu ritmo actual.",
+   "pt": "Moedas iguais à renda do seu ninho por 24 horas, no seu ritmo atual.",
+   "de": "Münzen in Höhe deines Nesteinkommens für 24 Stunden, bei deiner aktuellen Rate.",
+   "fr": "Des pièces égales aux revenus de ton nid pendant 24 heures, à ton rythme actuel."
+  },
+  "Double coins while you play. The timer only runs in game.": {
+   "es": "Doble de monedas mientras juegas. El temporizador solo corre en el juego.",
+   "pt": "Moedas em dobro enquanto joga. O tempo só corre no jogo.",
+   "de": "Doppelte Münzen beim Spielen. Der Timer läuft nur im Spiel.",
+   "fr": "Pièces doublées pendant que tu joues. Le minuteur ne tourne qu'en jeu."
+  },
+  "Finish a dragon's growth timer with up to 1 minute left.": {
+   "es": "Termina el tiempo de crecimiento de un dragón con hasta 1 minuto de espera.",
+   "pt": "Termina o tempo de crescimento de um dragão com até 1 minuto de espera.",
+   "de": "Beendet den Wachstums-Timer eines Drachen mit bis zu 1 Minute Restzeit.",
+   "fr": "Termine le temps de croissance d'un dragon s'il reste jusqu'à 1 minute."
+  },
+  "Finish a dragon's growth timer with up to 5 minutes left.": {
+   "es": "Termina el tiempo de crecimiento de un dragón con hasta 5 minutos de espera.",
+   "pt": "Termina o tempo de crescimento de um dragão com até 5 minutos de espera.",
+   "de": "Beendet den Wachstums-Timer eines Drachen mit bis zu 5 Minuten Restzeit.",
+   "fr": "Termine le temps de croissance d'un dragon s'il reste jusqu'à 5 minutes."
+  },
+  "Finish a dragon's growth timer with up to 20 minutes left.": {
+   "es": "Termina el tiempo de crecimiento de un dragón con hasta 20 minutos de espera.",
+   "pt": "Termina o tempo de crescimento de um dragão com até 20 minutos de espera.",
+   "de": "Beendet den Wachstums-Timer eines Drachen mit bis zu 20 Minuten Restzeit.",
+   "fr": "Termine le temps de croissance d'un dragon s'il reste jusqu'à 20 minutes."
+  },
+  "Finish a dragon's growth timer with up to 1 hour left.": {
+   "es": "Termina el tiempo de crecimiento de un dragón con hasta 1 hora de espera.",
+   "pt": "Termina o tempo de crescimento de um dragão com até 1 hora de espera.",
+   "de": "Beendet den Wachstums-Timer eines Drachen mit bis zu 1 Stunde Restzeit.",
+   "fr": "Termine le temps de croissance d'un dragon s'il reste jusqu'à 1 heure."
+  },
+  "Finish any dragon's growth timer right away.": {
+   "es": "Termina al instante el tiempo de crecimiento de cualquier dragón.",
+   "pt": "Termina na hora o tempo de crescimento de qualquer dragão.",
+   "de": "Beendet sofort den Wachstums-Timer eines beliebigen Drachen.",
+   "fr": "Termine tout de suite le temps de croissance de n'importe quel dragon."
+  },
+  "Ten treats. A treat finishes half of a dragon's growth timer.": {
+   "es": "Diez golosinas. Una golosina termina la mitad del tiempo de crecimiento de un dragón.",
+   "pt": "Dez petiscos. Um petisco termina metade do tempo de crescimento de um dragão.",
+   "de": "Zehn Leckerlis. Ein Leckerli erledigt die Hälfte des Wachstums-Timers eines Drachen.",
+   "fr": "Dix friandises. Une friandise termine la moitié du temps de croissance d'un dragon."
+  },
+  "Three treats. A treat finishes half of a dragon's growth timer.": {
+   "es": "Tres golosinas. Una golosina termina la mitad del tiempo de crecimiento de un dragón.",
+   "pt": "Três petiscos. Um petisco termina metade do tempo de crescimento de um dragão.",
+   "de": "Drei Leckerlis. Ein Leckerli erledigt die Hälfte des Wachstums-Timers eines Drachen.",
+   "fr": "Trois friandises. Une friandise termine la moitié du temps de croissance d'un dragon."
+  },
+  "Two eggs of your chosen elements (Rare or better), a second incubator and a rider scarf. One per account.": {
+   "es": "Dos huevos de los elementos que elijas (Raro o mejor), una segunda incubadora y una bufanda de jinete. Una por cuenta.",
+   "pt": "Dois ovos dos elementos que escolher (Raro ou melhor), uma segunda incubadora e um cachecol de cavaleiro. Um por conta.",
+   "de": "Zwei Eier deiner Wahl-Elemente (Selten oder besser), ein zweiter Brutkasten und ein Reiterschal. Einmal pro Konto.",
+   "fr": "Deux œufs des éléments de ton choix (Rare ou mieux), un deuxième incubateur et une écharpe de cavalier. Un par compte."
+  },
+  "Your nest earns double coins forever.": {
+   "es": "Tu nido gana el doble de monedas para siempre.",
+   "pt": "Seu ninho rende o dobro de moedas para sempre.",
+   "de": "Dein Nest verdient für immer doppelte Münzen.",
+   "fr": "Ton nid rapporte le double de pièces pour toujours."
+  },
+  "You hatched your first dragon.": {
+   "es": "Eclosionaste tu primer dragón.",
+   "pt": "Você chocou seu primeiro dragão.",
+   "de": "Du hast deinen ersten Drachen ausgebrütet.",
+   "fr": "Tu as fait éclore ton premier dragon."
+  },
+  "You glided down with a hatchling on your shoulder.": {
+   "es": "Planeaste con una cría en el hombro.",
+   "pt": "Você planou com um filhote no ombro.",
+   "de": "Du bist mit einem Schlüpfling auf der Schulter hinabgeglitten.",
+   "fr": "Tu as plané avec un bébé sur l'épaule."
+  },
+  "You rode a juvenile dragon.": {
+   "es": "Montaste un dragón joven.",
+   "pt": "Você montou um dragão jovem.",
+   "de": "Du bist auf einem Jungdrachen geritten.",
+   "fr": "Tu as chevauché un jeune dragon."
+  },
+  "You flew on an adult dragon.": {
+   "es": "Volaste en un dragón adulto.",
+   "pt": "Você voou em um dragão adulto.",
+   "de": "Du bist auf einem erwachsenen Drachen geflogen.",
+   "fr": "Tu as volé sur un dragon adulte."
+  },
+  "You completed Ascension I.": {
+   "es": "Completaste la Ascensión I.",
+   "pt": "Você completou a Ascensão I.",
+   "de": "Du hast Aufstieg I abgeschlossen.",
+   "fr": "Tu as terminé l'Ascension I."
+  },
+  "You helped a friend hatch an egg faster.": {
+   "es": "Ayudaste a un amigo a eclosionar un huevo más rápido.",
+   "pt": "Você ajudou um amigo a chocar um ovo mais rápido.",
+   "de": "Du hast einem Freund geholfen, ein Ei schneller auszubrüten.",
+   "fr": "Tu as aidé un ami à faire éclore un œuf plus vite."
+  },
+  "Your Dragon Index is 25% complete.": {
+   "es": "Tu Índice de dragones está completo al 25%.",
+   "pt": "Seu Índice de dragões está 25% completo.",
+   "de": "Dein Drachen-Index ist zu 25% vollständig.",
+   "fr": "Ton Index des dragons est complet à 25%."
+  },
+  "You raised an Elder dragon.": {
+   "es": "Criaste un dragón Anciano.",
+   "pt": "Você criou um dragão Ancião.",
+   "de": "Du hast einen Ältesten großgezogen.",
+   "fr": "Tu as élevé un dragon Ancien."
+  },
+  "You hatched an Ancient dragon. Only a few exist.": {
+   "es": "Eclosionaste un dragón antiguo. Existen muy pocos.",
+   "pt": "Você chocou um dragão antigo. Existem bem poucos.",
+   "de": "Du hast einen Uralten ausgebrütet. Es gibt nur wenige.",
+   "fr": "Tu as fait éclore un dragon antique. Il en existe très peu."
+  },
+  "Finish hatching an egg with up to 1 minute left. The outcome is already set, Hatch now only saves time.": {
+   "es": "Termina la eclosión de un huevo con hasta 1 minuto de espera. El resultado ya está decidido: Eclosionar ya solo ahorra tiempo.",
+   "pt": "Termina a chocagem de um ovo com até 1 minuto de espera. O resultado já está definido: Chocar já só poupa tempo.",
+   "de": "Beendet das Ausbrüten eines Eis mit bis zu 1 Minute Restzeit. Das Ergebnis steht schon fest: Jetzt ausbrüten spart nur Zeit.",
+   "fr": "Termine l'éclosion d'un œuf s'il reste jusqu'à 1 minute. Le résultat est déjà fixé : Faire éclore maintenant fait seulement gagner du temps."
+  },
+  "Finish hatching an egg with up to 5 minutes left. The outcome is already set, Hatch now only saves time.": {
+   "es": "Termina la eclosión de un huevo con hasta 5 minutos de espera. El resultado ya está decidido: Eclosionar ya solo ahorra tiempo.",
+   "pt": "Termina a chocagem de um ovo com até 5 minutos de espera. O resultado já está definido: Chocar já só poupa tempo.",
+   "de": "Beendet das Ausbrüten eines Eis mit bis zu 5 Minuten Restzeit. Das Ergebnis steht schon fest: Jetzt ausbrüten spart nur Zeit.",
+   "fr": "Termine l'éclosion d'un œuf s'il reste jusqu'à 5 minutes. Le résultat est déjà fixé : Faire éclore maintenant fait seulement gagner du temps."
+  },
+  "Finish hatching an egg with up to 20 minutes left. The outcome is already set, Hatch now only saves time.": {
+   "es": "Termina la eclosión de un huevo con hasta 20 minutos de espera. El resultado ya está decidido: Eclosionar ya solo ahorra tiempo.",
+   "pt": "Termina a chocagem de um ovo com até 20 minutos de espera. O resultado já está definido: Chocar já só poupa tempo.",
+   "de": "Beendet das Ausbrüten eines Eis mit bis zu 20 Minuten Restzeit. Das Ergebnis steht schon fest: Jetzt ausbrüten spart nur Zeit.",
+   "fr": "Termine l'éclosion d'un œuf s'il reste jusqu'à 20 minutes. Le résultat est déjà fixé : Faire éclore maintenant fait seulement gagner du temps."
+  },
+  "Finish hatching an egg with up to 1 hour left. The outcome is already set, Hatch now only saves time.": {
+   "es": "Termina la eclosión de un huevo con hasta 1 hora de espera. El resultado ya está decidido: Eclosionar ya solo ahorra tiempo.",
+   "pt": "Termina a chocagem de um ovo com até 1 hora de espera. O resultado já está definido: Chocar já só poupa tempo.",
+   "de": "Beendet das Ausbrüten eines Eis mit bis zu 1 Stunde Restzeit. Das Ergebnis steht schon fest: Jetzt ausbrüten spart nur Zeit.",
+   "fr": "Termine l'éclosion d'un œuf s'il reste jusqu'à 1 heure. Le résultat est déjà fixé : Faire éclore maintenant fait seulement gagner du temps."
+  },
+  "Finish hatching any egg right away. The outcome is already set, Hatch now only saves time.": {
+   "es": "Termina al instante la eclosión de cualquier huevo. El resultado ya está decidido: Eclosionar ya solo ahorra tiempo.",
+   "pt": "Termina na hora a chocagem de qualquer ovo. O resultado já está definido: Chocar já só poupa tempo.",
+   "de": "Brütet jedes Ei sofort aus. Das Ergebnis steht schon fest: Jetzt ausbrüten spart nur Zeit.",
+   "fr": "Fait éclore n'importe quel œuf tout de suite. Le résultat est déjà fixé : Faire éclore maintenant fait seulement gagner du temps."
+  },
+  "+1 nest slot, +10% coins (also offline), VIP name tag and the Gilded nest skin. Yours forever.": {
+   "es": "+1 espacio de nido, +10% monedas (también sin conexión), etiqueta VIP y el aspecto de nido Dorado. Tuyo para siempre.",
+   "pt": "+1 espaço de ninho, +10% moedas (também offline), etiqueta VIP e o visual de ninho Dourado. Seu para sempre.",
+   "de": "+1 Nestplatz, +10% Münzen (auch offline), VIP-Namensschild und der vergoldete Nest-Look. Für immer deins.",
+   "fr": "+1 place de nid, +10% de pièces (même hors ligne), badge VIP et le style de nid Doré. À toi pour toujours."
+  },
+  "Nest coins go straight to your balance. Yours forever.": {
+   "es": "Las monedas del nido van directo a tu saldo. Tuyo para siempre.",
+   "pt": "As moedas do ninho vão direto para o saldo. Seu para sempre.",
+   "de": "Nestmünzen gehen direkt auf dein Guthaben. Für immer deins.",
+   "fr": "Les pièces du nid vont direct sur ton solde. À toi pour toujours."
+  },
+  "One more dragon earns in your nest. Yours forever.": {
+   "es": "Un dragón más que gana en tu nido. Tuyo para siempre.",
+   "pt": "Mais um dragão rendendo no seu ninho. Seu para sempre.",
+   "de": "Ein Drache mehr verdient in deinem Nest. Für immer deins.",
+   "fr": "Un dragon de plus qui rapporte dans ton nid. À toi pour toujours."
+  },
+  "One more dragon earns in your nest. Requires slot I. Yours forever.": {
+   "es": "Un dragón más que gana en tu nido. Requiere el espacio I. Tuyo para siempre.",
+   "pt": "Mais um dragão rendendo no seu ninho. Requer o espaço I. Seu para sempre.",
+   "de": "Ein Drache mehr verdient in deinem Nest. Benötigt Platz I. Für immer deins.",
+   "fr": "Un dragon de plus qui rapporte dans ton nid. Nécessite la place I. À toi pour toujours."
+  },
+  "One more dragon earns in your nest. Requires slot II. Yours forever.": {
+   "es": "Un dragón más que gana en tu nido. Requiere el espacio II. Tuyo para siempre.",
+   "pt": "Mais um dragão rendendo no seu ninho. Requer o espaço II. Seu para sempre.",
+   "de": "Ein Drache mehr verdient in deinem Nest. Benötigt Platz II. Für immer deins.",
+   "fr": "Un dragon de plus qui rapporte dans ton nid. Nécessite la place II. À toi pour toujours."
+  },
+  "All eggs hatch 40% faster. Yours forever.": {
+   "es": "Todos los huevos eclosionan un 40% más rápido. Tuyo para siempre.",
+   "pt": "Todos os ovos chocam 40% mais rápido. Seu para sempre.",
+   "de": "Alle Eier schlüpfen 40% schneller. Für immer deins.",
+   "fr": "Tous les œufs éclosent 40% plus vite. À toi pour toujours."
+  },
+  "A glowing trail behind you in flight. Yours forever.": {
+   "es": "Una estela brillante detrás de ti al volar. Tuyo para siempre.",
+   "pt": "Um rastro brilhante atrás de você no voo. Seu para sempre.",
+   "de": "Eine leuchtende Spur hinter dir im Flug. Für immer deins.",
+   "fr": "Une traînée lumineuse qui te suit en vol. À toi pour toujours."
+  },
+  "A new look for your nest. Yours forever.": {
+   "es": "Un aspecto nuevo para tu nido. Tuyo para siempre.",
+   "pt": "Um visual novo para seu ninho. Seu para sempre.",
+   "de": "Ein neuer Look für dein Nest. Für immer deins.",
+   "fr": "Un nouveau style pour ton nid. À toi pour toujours."
+  },
+  "A sea-blue trail behind you in flight. Yours forever.": {
+   "es": "Una estela azul mar detrás de ti al volar. Tuyo para siempre.",
+   "pt": "Um rastro azul-mar atrás de você no voo. Seu para sempre.",
+   "de": "Eine meerblaue Spur hinter dir im Flug. Für immer deins.",
+   "fr": "Une traînée bleu océan qui te suit en vol. À toi pour toujours."
+  },
+  "A starry night look for your nest. Yours forever.": {
+   "es": "Un aspecto de noche estrellada para tu nido. Tuyo para siempre.",
+   "pt": "Um visual de noite estrelada para seu ninho. Seu para sempre.",
+   "de": "Ein Sternennacht-Look für dein Nest. Für immer deins.",
+   "fr": "Un style nuit étoilée pour ton nid. À toi pour toujours."
+  },
+  "Royal nest skin, three nest slots, the Royal aura and the Nest Lord title. Yours forever.": {
+   "es": "Aspecto de nido Real, tres espacios de nido, el aura Real y el título Señor del Nido. Tuyo para siempre.",
+   "pt": "Visual de ninho Real, três espaços de ninho, a aura Real e o título Senhor do Ninho. Seu para sempre.",
+   "de": "Königlicher Nest-Look, drei Nestplätze, die Königsaura und der Titel Nestfürst. Für immer deins.",
+   "fr": "Style de nid Royal, trois places de nid, l'aura Royale et le titre Seigneur du Nid. À toi pour toujours."
+  }
+ }
+}

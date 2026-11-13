@@ -1,0 +1,50 @@
+{
+ "gloom_minion_C_shardling_v4": {
+  "assetId": "110740108699120",
+  "moderation": "Approved",
+  "operation": "operations/5f7c02d4-8118-47d6-8f54-224e94858388",
+  "file": "minion_C_shardling_v4.glb",
+  "upload_s": 14.2,
+  "utc": "17:54:04"
+ },
+ "gloom_minion_B_hound_v4": {
+  "assetId": "96784078534940",
+  "moderation": "Approved",
+  "operation": "operations/3e2cdf14-9c28-4770-84a5-55104b57f27c",
+  "file": "minion_B_hound_v4.glb",
+  "upload_s": 7.4,
+  "utc": "17:54:12"
+ },
+ "gloom_warden_A_stone_beast_v4": {
+  "assetId": "81718135601166",
+  "moderation": "Approved",
+  "operation": "operations/781aa48f-edb5-478b-895e-74ba724ead3d",
+  "file": "warden_A_stone_beast_v4.glb",
+  "upload_s": 10.9,
+  "utc": "17:54:24"
+ },
+ "gloom_minion_B_hound_v4_lp": {
+  "assetId": "109761560514715",
+  "moderation": "Approved",
+  "operation": "operations/71132ac7-4873-46b8-8013-6a98365f081c",
+  "file": "minion_B_hound_v4_lp.glb",
+  "upload_s": 21.2,
+  "utc": "10:00:36"
+ },
+ "gloom_minion_C_shardling_v4_lp": {
+  "assetId": "99819876318987",
+  "moderation": "Approved",
+  "operation": "operations/ebb9485d-b540-4b2c-991b-64de3607253a",
+  "file": "minion_C_shardling_v4_lp.glb",
+  "upload_s": 10.7,
+  "utc": "10:00:48"
+ },
+ "gloom_warden_A_stone_beast_v4_lp": {
+  "assetId": "123508509837902",
+  "moderation": "Approved",
+  "operation": "operations/290ca331-4207-4a3a-b4ad-01640ec83b52",
+  "file": "warden_A_stone_beast_v4_lp.glb",
+  "upload_s": 17.8,
+  "utc": "10:01:07"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "ui_arrow_down": {
+  "assetId": "129482676818721",
+  "moderation": "Approved",
+  "operation": "operations/03739c69-9a40-4ceb-bf27-049b7e8650f1",
+  "file": "arrow_down.png",
+  "upload_s": 4.0,
+  "utc": "2026-10-12T17:03:58Z"
+ },
+ "ui_beam_chevrons": {
+  "assetId": "81469737378952",
+  "moderation": "Approved",
+  "operation": "operations/0ff7bfbd-c56b-4ee6-9e80-3f58c9149255",
+  "file": "beam_chevrons.png",
+  "upload_s": 3.8,
+  "utc": "2026-10-12T17:04:02Z"
+ },
+ "ui_coin": {
+  "assetId": "114454337333893",
+  "moderation": "Approved",
+  "operation": "operations/4a7042ef-ec39-42b5-b66a-e425eef28425",
+  "file": "coin.png",
+  "upload_s": 3.9,
+  "utc": "2026-10-12T17:04:07Z"
+ },
+ "ui_waterfall_streaks": {
+  "assetId": "125636954641603",
+  "moderation": "Approved",
+  "operation": "operations/e4c7de65-d366-4f77-a8a2-fd07ec39e86b",
+  "file": "waterfall_streaks.png",
+  "upload_s": 4.0,
+  "utc": "2026-10-12T17:04:12Z"
+ },
+ "ui_icon_egg": {
+  "assetId": "119856311568804",
+  "moderation": "Approved",
+  "operation": "operations/d5740beb-5bb4-4759-ac99-43ac4af473bc",
+  "file": "icon_egg.png",
+  "upload_s": 4.0,
+  "utc": "2026-10-12T18:40:28Z"
+ },
+ "ui_icon_gear": {
+  "assetId": "99849322069499",
+  "moderation": "Approved",
+  "operation": "operations/a8011218-e4ed-4575-bc14-fdddd2c1178f",
+  "file": "icon_gear.png",
+  "upload_s": 3.9,
+  "utc": "2026-10-12T18:40:33Z"
+ }
+}

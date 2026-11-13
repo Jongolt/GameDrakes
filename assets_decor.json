@@ -1,0 +1,787 @@
+{
+ "decor_campfire_stones": {
+  "assetId": "132819747179641",
+  "moderation": "Approved",
+  "operation": "operations/50aa6d3e-8235-43ac-9691-ace9d59f65a9",
+  "file": "campfire_stones.glb",
+  "upload_s": 8.2,
+  "utc": "11:13:16"
+ },
+ "decor_cliff_blockSlope_stone": {
+  "assetId": "117622532910539",
+  "moderation": "Approved",
+  "operation": "operations/526530d9-134c-48d2-88b8-cd9652886b91",
+  "file": "cliff_blockSlope_stone.glb",
+  "upload_s": 11.3,
+  "utc": "11:13:29"
+ },
+ "decor_cliff_block_stone": {
+  "assetId": "88489173270341",
+  "moderation": "Approved",
+  "operation": "operations/fdd6ccf2-7dac-481f-8446-0b9feda9d9a9",
+  "file": "cliff_block_stone.glb",
+  "upload_s": 7.1,
+  "utc": "11:13:37"
+ },
+ "decor_cliff_corner_stone": {
+  "assetId": "105064366664091",
+  "moderation": "Approved",
+  "operation": "operations/74b141d3-ffcf-49e2-8631-3900ba88ab2e",
+  "file": "cliff_corner_stone.glb",
+  "upload_s": 13.6,
+  "utc": "11:13:51"
+ },
+ "decor_cliff_large_stone": {
+  "assetId": "85636186696112",
+  "moderation": "Approved",
+  "operation": "operations/a69f4469-4ddb-4409-9846-edf061c2bf3e",
+  "file": "cliff_large_stone.glb",
+  "upload_s": 7.2,
+  "utc": "11:14:00"
+ },
+ "decor_cliff_steps_stone": {
+  "assetId": "83831874165642",
+  "moderation": "Approved",
+  "operation": "operations/e082c125-2e09-4c62-820f-bfbb4581b783",
+  "file": "cliff_steps_stone.glb",
+  "upload_s": 10.4,
+  "utc": "11:14:11"
+ },
+ "decor_cliff_top_stone": {
+  "assetId": "93848434626206",
+  "moderation": "Approved",
+  "operation": "operations/bec465f1-1b9b-4f38-9f14-59b24ae13e17",
+  "file": "cliff_top_stone.glb",
+  "upload_s": 7.2,
+  "utc": "11:14:19"
+ },
+ "decor_fence_simple": {
+  "assetId": "72458582216148",
+  "moderation": "Approved",
+  "operation": "operations/c7b1e84d-516c-423b-81a0-358bcf84f013",
+  "file": "fence_simple.glb",
+  "upload_s": 10.4,
+  "utc": "11:14:31"
+ },
+ "decor_flower_purpleC": {
+  "assetId": "128354703969316",
+  "moderation": "Approved",
+  "operation": "operations/8184688d-f8a3-42eb-96aa-5ff8b3857880",
+  "file": "flower_purpleC.glb",
+  "upload_s": 4.1,
+  "utc": "11:14:36"
+ },
+ "decor_flower_redA": {
+  "assetId": "110842991558701",
+  "moderation": "Approved",
+  "operation": "operations/5a703ac8-2a88-4c2f-9816-517af29d43e6",
+  "file": "flower_redA.glb",
+  "upload_s": 14.0,
+  "utc": "11:14:51"
+ },
+ "decor_flower_yellowB": {
+  "assetId": "76695416967441",
+  "moderation": "Approved",
+  "operation": "operations/884e6660-de3d-4fd2-bc6e-d2f9fa2f33ed",
+  "file": "flower_yellowB.glb",
+  "upload_s": 7.7,
+  "utc": "11:14:59"
+ },
+ "decor_grass": {
+  "assetId": "138022483388766",
+  "moderation": "Approved",
+  "operation": "operations/103e4f03-23f8-43ed-8041-baa3a99388b2",
+  "file": "grass.glb",
+  "upload_s": 14.4,
+  "utc": "11:15:15"
+ },
+ "decor_grass_large": {
+  "assetId": "115779993441939",
+  "moderation": "Approved",
+  "operation": "operations/02b8d263-bf7e-49cc-9013-16a0854e3353",
+  "file": "grass_large.glb",
+  "upload_s": 13.9,
+  "utc": "11:15:30"
+ },
+ "decor_grass_leafs": {
+  "assetId": "76779183051303",
+  "moderation": "Approved",
+  "operation": "operations/6eca0377-a3b7-4ac4-aa5c-b25499f9c899",
+  "file": "grass_leafs.glb",
+  "upload_s": 7.2,
+  "utc": "11:15:38"
+ },
+ "decor_lily_large": {
+  "assetId": "132800442982003",
+  "moderation": "Approved",
+  "operation": "operations/8d5acd38-0b7b-440f-872c-2db4d39e4e26",
+  "file": "lily_large.glb",
+  "upload_s": 10.4,
+  "utc": "11:15:49"
+ },
+ "decor_log": {
+  "assetId": "131237820888337",
+  "moderation": "Approved",
+  "operation": "operations/ec88ed0d-2938-4903-ae87-4ee131f0d3ba",
+  "file": "log.glb",
+  "upload_s": 7.2,
+  "utc": "11:15:58"
+ },
+ "decor_log_stackLarge": {
+  "assetId": "105566100012688",
+  "moderation": "Approved",
+  "operation": "operations/3bd7b111-c29c-4f82-941a-98ad50ae1a0d",
+  "file": "log_stackLarge.glb",
+  "upload_s": 10.5,
+  "utc": "11:16:09"
+ },
+ "decor_mushroom_redGroup": {
+  "assetId": "136104069755646",
+  "moderation": "Approved",
+  "operation": "operations/898dbc90-038d-46d7-935b-1a29eb6019fc",
+  "file": "mushroom_redGroup.glb",
+  "upload_s": 11.2,
+  "utc": "11:16:21"
+ },
+ "decor_mushroom_tanTall": {
+  "assetId": "89934548927087",
+  "moderation": "Approved",
+  "operation": "operations/0efa6b36-e733-43c6-8d02-acfce1d9337d",
+  "file": "mushroom_tanTall.glb",
+  "upload_s": 10.8,
+  "utc": "11:16:33"
+ },
+ "decor_path_stone": {
+  "assetId": "119754467222166",
+  "moderation": "Approved",
+  "operation": "operations/d641e600-2a55-4c3c-8b59-db6cd4b42d6b",
+  "file": "path_stone.glb",
+  "upload_s": 7.2,
+  "utc": "11:16:41"
+ },
+ "decor_plant_bushDetailed": {
+  "assetId": "76589196299468",
+  "moderation": "Approved",
+  "operation": "operations/21491566-b6cc-44ba-bc16-17b1dc5c0a14",
+  "file": "plant_bushDetailed.glb",
+  "upload_s": 14.3,
+  "utc": "11:16:57"
+ },
+ "decor_plant_bush": {
+  "assetId": "87131426645466",
+  "moderation": "Approved",
+  "operation": "operations/8c67ffb9-67f7-416b-8509-96c00ca2f051",
+  "file": "plant_bush.glb",
+  "upload_s": 13.8,
+  "utc": "11:17:11"
+ },
+ "decor_plant_bushLarge": {
+  "assetId": "118203349349620",
+  "moderation": "Approved",
+  "operation": "operations/2d8c1823-1e64-410f-9e7c-0a3c13a4f039",
+  "file": "plant_bushLarge.glb",
+  "upload_s": 7.1,
+  "utc": "11:17:19"
+ },
+ "decor_rock_largeA": {
+  "assetId": "78738473063793",
+  "moderation": "Approved",
+  "operation": "operations/7e177228-87ce-4492-abcb-8664161209b2",
+  "file": "rock_largeA.glb",
+  "upload_s": 10.8,
+  "utc": "11:17:31"
+ },
+ "decor_rock_largeC": {
+  "assetId": "114275041747138",
+  "moderation": "Approved",
+  "operation": "operations/d722bac2-c129-48f4-bbcc-e34147fcafff",
+  "file": "rock_largeC.glb",
+  "upload_s": 7.4,
+  "utc": "11:17:40"
+ },
+ "decor_rock_smallA": {
+  "assetId": "89881417004705",
+  "moderation": "Approved",
+  "operation": "operations/ddfd9228-0bac-4f7c-b910-d8a27d88d928",
+  "file": "rock_smallA.glb",
+  "upload_s": 7.9,
+  "utc": "11:17:49"
+ },
+ "decor_rock_smallFlatA": {
+  "assetId": "122034999621581",
+  "moderation": "Approved",
+  "operation": "operations/cf0675d3-8e5f-44da-aedc-5c8dfe4ac25e",
+  "file": "rock_smallFlatA.glb",
+  "upload_s": 8.0,
+  "utc": "11:17:58"
+ },
+ "decor_rock_tallB": {
+  "assetId": "83941386522723",
+  "moderation": "Approved",
+  "operation": "operations/537830c9-33c4-4fe9-877b-0648bd194ba1",
+  "file": "rock_tallB.glb",
+  "upload_s": 17.5,
+  "utc": "11:18:16"
+ },
+ "decor_rock_tallF": {
+  "assetId": "120778850541851",
+  "moderation": "Approved",
+  "operation": "operations/8d6f0350-c7ca-4ba9-87b3-094ac399090b",
+  "file": "rock_tallF.glb",
+  "upload_s": 10.4,
+  "utc": "11:18:28"
+ },
+ "decor_sign": {
+  "assetId": "123981326663461",
+  "moderation": "Approved",
+  "operation": "operations/a44c7317-e734-4a5d-8fdb-2f755ac45bb3",
+  "file": "sign.glb",
+  "upload_s": 7.1,
+  "utc": "11:18:36"
+ },
+ "decor_stone_largeB": {
+  "assetId": "87959114468410",
+  "moderation": "Approved",
+  "operation": "operations/848f6e03-8ffd-41b4-9064-dcfe33ad34f0",
+  "file": "stone_largeB.glb",
+  "upload_s": 18.6,
+  "utc": "11:18:55"
+ },
+ "decor_stone_smallFlatB": {
+  "assetId": "116172604666715",
+  "moderation": "Approved",
+  "operation": "operations/2bac7bad-5680-4ac1-a87e-5f9b6cb752a6",
+  "file": "stone_smallFlatB.glb",
+  "upload_s": 7.8,
+  "utc": "11:19:04"
+ },
+ "decor_stone_tallC": {
+  "assetId": "116675334790160",
+  "moderation": "Approved",
+  "operation": "operations/949ea6d5-cc3c-4704-a4fe-7ee8352eb6bd",
+  "file": "stone_tallC.glb",
+  "upload_s": 9.0,
+  "utc": "11:19:14"
+ },
+ "decor_stump_roundDetailed": {
+  "assetId": "96952036720175",
+  "moderation": "Approved",
+  "operation": "operations/9657987d-270f-4e67-a046-607c2b572995",
+  "file": "stump_roundDetailed.glb",
+  "upload_s": 8.5,
+  "utc": "11:19:24"
+ },
+ "decor_tree_default_fall": {
+  "assetId": "93479006630349",
+  "moderation": "Approved",
+  "operation": "operations/2cd7ca21-908f-44d5-8ba0-03b404fe912e",
+  "file": "tree_default_fall.glb",
+  "upload_s": 8.1,
+  "utc": "11:19:33"
+ },
+ "decor_tree_default": {
+  "assetId": "81456824022693",
+  "moderation": "Approved",
+  "operation": "operations/94d85b90-980c-4264-97f9-b780927b8047",
+  "file": "tree_default.glb",
+  "upload_s": 9.4,
+  "utc": "11:19:43"
+ },
+ "decor_tree_detailed": {
+  "assetId": "102101073354629",
+  "moderation": "Approved",
+  "operation": "operations/8daf324f-e62b-4b17-bc27-8b738197b7a3",
+  "file": "tree_detailed.glb",
+  "upload_s": 4.7,
+  "utc": "11:19:49"
+ },
+ "decor_tree_fat": {
+  "assetId": "86194079599274",
+  "moderation": "Approved",
+  "operation": "operations/255ad0f3-870c-46d0-9aef-2de46d98d648",
+  "file": "tree_fat.glb",
+  "upload_s": 8.4,
+  "utc": "11:19:58"
+ },
+ "decor_tree_oak": {
+  "assetId": "78333091938382",
+  "moderation": "Approved",
+  "operation": "operations/0dd389f3-b54a-4625-a6ae-2a276f1d077b",
+  "file": "tree_oak.glb",
+  "upload_s": 11.9,
+  "utc": "11:20:11"
+ },
+ "decor_tree_palmBend": {
+  "assetId": "127173790912409",
+  "moderation": "Approved",
+  "operation": "operations/04d4d548-b362-4d04-ae85-7414e83a5041",
+  "file": "tree_palmBend.glb",
+  "upload_s": 5.2,
+  "utc": "11:20:18"
+ },
+ "decor_tree_palmDetailedTall": {
+  "assetId": "100421717706741",
+  "moderation": "Approved",
+  "operation": "operations/d0dd17ff-9e9d-4293-9c4e-5a6a3f59ce8b",
+  "file": "tree_palmDetailedTall.glb",
+  "upload_s": 10.9,
+  "utc": "11:20:30"
+ },
+ "decor_tree_pineRoundA": {
+  "assetId": "137590479825710",
+  "moderation": "Approved",
+  "operation": "operations/cb9c32cb-614b-4064-bf53-6aae1efd3683",
+  "file": "tree_pineRoundA.glb",
+  "upload_s": 10.6,
+  "utc": "11:20:41"
+ },
+ "decor_tree_pineTallB": {
+  "assetId": "116962275551218",
+  "moderation": "Approved",
+  "operation": "operations/fee51df0-736c-4346-96c7-63add6835d3b",
+  "file": "tree_pineTallB.glb",
+  "upload_s": 10.5,
+  "utc": "11:20:53"
+ },
+ "decor_ptree_autumn_round": {
+  "assetId": "78806233152071",
+  "moderation": "Approved",
+  "operation": "operations/255b2312-f835-49c8-84c7-52e0661b6251",
+  "file": "ptree_autumn_round.glb",
+  "upload_s": 7.3,
+  "utc": "14:45:43"
+ },
+ "decor_ptree_blossom_round": {
+  "assetId": "140388248041233",
+  "moderation": "Approved",
+  "operation": "operations/44efbe73-62b1-4c4f-8b9c-cadd3217711b",
+  "file": "ptree_blossom_round.glb",
+  "upload_s": 7.8,
+  "utc": "14:45:52"
+ },
+ "decor_ptree_dark_round": {
+  "assetId": "128729658147643",
+  "moderation": "Approved",
+  "operation": "operations/749f4be7-6e55-444b-bd14-d3fb4d8bb550",
+  "file": "ptree_dark_round.glb",
+  "upload_s": 7.3,
+  "utc": "14:46:00"
+ },
+ "decor_ptree_dark_tall": {
+  "assetId": "95523640277080",
+  "moderation": "Approved",
+  "operation": "operations/7edc7cd0-80a2-4d3c-ad40-0d21751eb341",
+  "file": "ptree_dark_tall.glb",
+  "upload_s": 17.3,
+  "utc": "14:46:18"
+ },
+ "decor_ptree_green_round": {
+  "assetId": "89074824136311",
+  "moderation": "Approved",
+  "operation": "operations/6b683be3-16d4-4867-ac8d-4c2b5d2249f0",
+  "file": "ptree_green_round.glb",
+  "upload_s": 20.4,
+  "utc": "14:46:40"
+ },
+ "decor_ptree_green_tall": {
+  "assetId": "83630904998422",
+  "moderation": "Approved",
+  "operation": "operations/c8d459bf-a30d-4355-ac42-826cc9ee3949",
+  "file": "ptree_green_tall.glb",
+  "upload_s": 7.2,
+  "utc": "14:46:48"
+ },
+ "decor_ptree_green_wide": {
+  "assetId": "134680124385170",
+  "moderation": "Approved",
+  "operation": "operations/421d38a0-b8fc-4fbe-9581-62658561f0bc",
+  "file": "ptree_green_wide.glb",
+  "upload_s": 10.8,
+  "utc": "14:47:00"
+ },
+ "decor_ctree_pine_a": {
+  "assetId": "74895458624672",
+  "moderation": "Approved",
+  "operation": "operations/a79316bf-3a5c-4439-bc3d-8408ae0317a8",
+  "file": "ctree_pine_a.glb",
+  "upload_s": 10.9,
+  "utc": "19:49:26"
+ },
+ "decor_ctree_pine_b": {
+  "assetId": "100676449472679",
+  "moderation": "Approved",
+  "operation": "operations/2e251a16-f59a-4e2b-b94d-3c0f97fd7b5d",
+  "file": "ctree_pine_b.glb",
+  "upload_s": 13.7,
+  "utc": "19:49:40"
+ },
+ "decor_ctree_spruce_a": {
+  "assetId": "132013828149672",
+  "moderation": "Approved",
+  "operation": "operations/460e0c32-ba13-4100-aae2-32a1aeeeae1e",
+  "file": "ctree_spruce_a.glb",
+  "upload_s": 10.3,
+  "utc": "19:49:52"
+ },
+ "decor_ctree_spruce_b": {
+  "assetId": "105675800168556",
+  "moderation": "Approved",
+  "operation": "operations/d30241c6-4c8a-461f-b9ff-41f9b2b336b6",
+  "file": "ctree_spruce_b.glb",
+  "upload_s": 7.3,
+  "utc": "19:50:00"
+ },
+ "decor_under_fern": {
+  "assetId": "105985801508723",
+  "moderation": "Approved",
+  "operation": "operations/62bc5841-216c-4991-8920-005d81b1234d",
+  "file": "under_fern.glb",
+  "upload_s": 6.9,
+  "utc": "19:50:08"
+ },
+ "decor_under_shrub": {
+  "assetId": "104731867089789",
+  "moderation": "Approved",
+  "operation": "operations/201c8590-0fa8-421a-b532-e4ee25842beb",
+  "file": "under_shrub.glb",
+  "upload_s": 13.7,
+  "utc": "19:50:23"
+ },
+ "decor_under_heather": {
+  "assetId": "121357362191609",
+  "moderation": "Approved",
+  "operation": "operations/60579793-6c73-480d-ba0b-7d795f68a582",
+  "file": "under_heather.glb",
+  "upload_s": 23.6,
+  "utc": "19:50:47"
+ },
+ "decor_ph_fern_02": {
+  "assetId": "130460858866313",
+  "moderation": "Approved",
+  "file": "ph_fern_02.glb",
+  "utc": "20:28:37",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock_09": {
+  "assetId": "126789198677386",
+  "moderation": "Approved",
+  "file": "ph_rock_09.glb",
+  "utc": "20:28:59",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock_moss_set_01": {
+  "assetId": "111901488372924",
+  "moderation": "Approved",
+  "file": "ph_rock_moss_set_01.glb",
+  "utc": "20:29:17",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock_moss_set_02": {
+  "assetId": "119835695649000",
+  "moderation": "Approved",
+  "file": "ph_rock_moss_set_02.glb",
+  "utc": "20:29:36",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock1_0": {
+  "assetId": "100893114031864",
+  "moderation": "Approved",
+  "file": "ph_rock1_0.glb",
+  "utc": "20:34:36",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock1_1": {
+  "assetId": "132425976677450",
+  "moderation": "Approved",
+  "file": "ph_rock1_1.glb",
+  "utc": "20:34:54",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock1_2": {
+  "assetId": "98063086201222",
+  "moderation": "Approved",
+  "file": "ph_rock1_2.glb",
+  "utc": "20:35:02",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock1_3": {
+  "assetId": "114434318989851",
+  "moderation": "Approved",
+  "file": "ph_rock1_3.glb",
+  "utc": "20:35:18",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock1_4": {
+  "assetId": "88108318530214",
+  "moderation": "Approved",
+  "file": "ph_rock1_4.glb",
+  "utc": "20:35:43",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock1_5": {
+  "assetId": "133966457300586",
+  "moderation": "Approved",
+  "file": "ph_rock1_5.glb",
+  "utc": "20:35:58",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock2_0": {
+  "assetId": "96898968421258",
+  "moderation": "Approved",
+  "file": "ph_rock2_0.glb",
+  "utc": "20:36:16",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock2_1": {
+  "assetId": "122074902982652",
+  "moderation": "Approved",
+  "file": "ph_rock2_1.glb",
+  "utc": "20:36:25",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock2_2": {
+  "assetId": "129505809678516",
+  "moderation": "Approved",
+  "file": "ph_rock2_2.glb",
+  "utc": "20:36:40",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock2_3": {
+  "assetId": "132273700514272",
+  "moderation": "Approved",
+  "file": "ph_rock2_3.glb",
+  "utc": "20:36:58",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock2_4": {
+  "assetId": "91170991054906",
+  "moderation": "Approved",
+  "file": "ph_rock2_4.glb",
+  "utc": "20:37:20",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock2_5": {
+  "assetId": "95009264130481",
+  "moderation": "Approved",
+  "file": "ph_rock2_5.glb",
+  "utc": "20:37:39",
+  "source": "Poly Haven CC0"
+ },
+ "decor_ph_rock2_6": {
+  "assetId": "93268449866355",
+  "moderation": "Approved",
+  "file": "ph_rock2_6.glb",
+  "utc": "20:37:47",
+  "source": "Poly Haven CC0"
+ },
+ "decor_cs_ponderosa": {
+  "assetId": "130515502281374",
+  "moderation": "Approved",
+  "source": "Creator Store, Letaij: Ponderosa Pine Tree Pack (12 trees, free, Get 11.10)",
+  "utc": "2026-10-11T21:05:00Z"
+ },
+ "decor_cs_firs": {
+  "assetId": "18475173887",
+  "moderation": "Approved",
+  "source": "Creator Store, Letaij: Silver Firs / Grey Pines pack PBR (8 trees)",
+  "utc": "2026-10-11T21:05:00Z"
+ },
+ "decor_cs_redcedar": {
+  "assetId": "113109119460825",
+  "moderation": "Approved",
+  "source": "Creator Store, Letaij: [PBR] Realistic Red Cedar Pine Tree (42 parts)",
+  "utc": "2026-10-11T21:05:00Z"
+ },
+ "decor_cs_pine_gabe": {
+  "assetId": "5392132809",
+  "moderation": "Approved",
+  "source": "Creator Store, GabeQZ: Realistic Pine Tree (3 parts)",
+  "utc": "2026-10-11T21:05:00Z"
+ },
+ "decor_cs_birch": {
+  "assetId": "11351912067",
+  "moderation": "Approved",
+  "source": "Creator Store, Letaij: Realistic Birch Tree Pack Free PBR (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_birch2": {
+  "assetId": "106045263830246",
+  "moderation": "Approved",
+  "source": "Creator Store, Letaij: Realistic Birch Tree Pack Free 2 (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_oak": {
+  "assetId": "98950444096614",
+  "moderation": "Approved",
+  "source": "Creator Store, Letaij: (PBR) Realistic Oak Trees Pack Free (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_fall": {
+  "assetId": "14991120301",
+  "moderation": "Approved",
+  "source": "Creator Store, Sebul6: Realistic fall tree (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_jungleoak": {
+  "assetId": "122280174982594",
+  "moderation": "Approved",
+  "source": "Creator Store, Realistic Tree Tropical Jungle Oak with vines (102 parts) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_snowfir": {
+  "assetId": "110886239599780",
+  "moderation": "Approved",
+  "source": "Creator Store, Manestronomer: Realistic Winter Snow Forest Tree (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_bush": {
+  "assetId": "106219688090496",
+  "moderation": "Approved",
+  "source": "Creator Store, Realistic Nature PBR Plant Bush (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_grass": {
+  "assetId": "15878201841",
+  "moderation": "Approved",
+  "source": "Creator Store, PBR Grass (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_mushrooms": {
+  "assetId": "16603790539",
+  "moderation": "Approved",
+  "source": "Creator Store, PBR Mushroom Pack (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_log": {
+  "assetId": "11287798686",
+  "moderation": "Approved",
+  "source": "Creator Store, Realistic Log (correct size) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_stump": {
+  "assetId": "11561947623",
+  "moderation": "Approved",
+  "source": "Creator Store, Relistic Tree Stump (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_stump2": {
+  "assetId": "9217497551",
+  "moderation": "Approved",
+  "source": "Creator Store, Tree Stump (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_flower": {
+  "assetId": "9187115433",
+  "moderation": "Approved",
+  "source": "Creator Store, realistic flower mesh (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_wildflower": {
+  "assetId": "9217406977",
+  "moderation": "Approved",
+  "source": "Creator Store, Wild flower (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_cattail": {
+  "assetId": "13261235137",
+  "moderation": "Approved",
+  "source": "Creator Store, Cattail (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_campfire": {
+  "assetId": "6322231133",
+  "moderation": "Approved",
+  "source": "Creator Store, Realistic campfire (48 parts) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_streetlight": {
+  "assetId": "120286446597186",
+  "moderation": "Approved",
+  "source": "Creator Store, Medieval Street Light (34 parts) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_logstack": {
+  "assetId": "2612675607",
+  "moderation": "Approved",
+  "source": "Creator Store, log stack (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_fence": {
+  "assetId": "12198840359",
+  "moderation": "Approved",
+  "source": "Creator Store, Wooden Fence (24 parts; not placed yet) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_pier": {
+  "assetId": "10772544352",
+  "moderation": "Approved",
+  "source": "Creator Store, Pier (34 parts) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_bridge": {
+  "assetId": "8514418957",
+  "moderation": "Approved",
+  "source": "Creator Store, Realistic Rope Bridge (not placed yet) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_boat": {
+  "assetId": "1111110448",
+  "moderation": "Approved",
+  "source": "Creator Store, Rowboat (WITHOUT SCRIPT) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_rocks": {
+  "assetId": "8421400545",
+  "moderation": "Approved",
+  "source": "Creator Store, Rock Pack (14 rocks) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_stonepath": {
+  "assetId": "95989479977640",
+  "moderation": "Approved",
+  "source": "Creator Store, Realistic Stone Path Segment (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_stall": {
+  "assetId": "8981837159",
+  "moderation": "Approved",
+  "source": "Creator Store, Market Stall (not placed yet) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_vines": {
+  "assetId": "16078553656",
+  "moderation": "Approved",
+  "source": "Creator Store, anolivys: Vines (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_crystal_amber": {
+  "assetId": "1147015531",
+  "moderation": "Approved",
+  "source": "Creator Store, Ultradortem: Crystals (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_crystal_pb": {
+  "assetId": "14654438863",
+  "moderation": "Approved",
+  "source": "Creator Store, Pink and Blue Crystal (with light) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_bigoak": {
+  "assetId": "15799943463",
+  "moderation": "Approved",
+  "source": "Creator Store, old oak tree (3 parts) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_oldtree": {
+  "assetId": "125730060481736",
+  "moderation": "Approved",
+  "source": "Creator Store, Old Tree (3 parts) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ },
+ "decor_cs_baobab": {
+  "assetId": "14404841326",
+  "moderation": "Approved",
+  "source": "Creator Store, Baobab Adansonia digitata Savanna Tree (10 parts) (free, Get owner 12.10)",
+  "utc": "2026-10-12T08:30:00Z"
+ }
+}

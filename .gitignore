@@ -1,0 +1,99 @@
+# The repository holds the whole game: code, tests, docs, asset sources (textures, models, fonts) and asset ids.
+# It does not hold keys, build output, videos, logs, backups or caches.
+
+# --- Keys and secrets (the Open Cloud key lives outside the repo) ---
+.roblox_opencloud*
+*opencloud*key*
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials*.json
+*credentials*
+*_secret*
+*_token*.json
+*.token
+token*.json
+.netrc
+id_rsa*
+id_ed25519*
+id_ecdsa*
+id_github*
+*.session
+*.session-journal
+
+# --- Build output (build.py rebuilds it from src/) ---
+build/
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+!assets_src/splash/LoadingDragon.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+sourcemap.json
+
+# --- Archives and videos (asset sources in assets_src/ ARE kept: PNG, GLB, FBX, OBJ, fonts, licenses) ---
+*.zip
+*.7z
+*.tar
+*.tgz
+*.tar.gz
+*.blend1
+*.mp4
+*.mov
+*.webm
+
+# --- Test run artifacts (screenshots, Studio scripts) live outside the repo ---
+runs/
+shots*/
+backups/
+*.log
+usage.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+venv/
+.pytest_cache/
+
+# --- Third-party packages and tool binaries (installed separately) ---
+Packages/
+ServerPackages/
+DevPackages/
+luau
+luau-compile
+lune
+rojo
+*.exe
+
+# --- Editors and OS ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Temporary files ---
+tmp/
+*.tmp
+*.bak
+*.orig
+
+# --- Leftovers of the 0.5 prototype and one-off tests, not used by the game (kept on the build server only) ---
+legacy_0.5/
+assets_src/test_embed/
+assets_src/kenney_cube_pets/
+assets.json
+upload_assets.py
+voxel_pets.py
+embed_glb.py

@@ -1,0 +1,130 @@
+{
+ "tex_granite_moss_color": {
+  "assetId": "82235783014440",
+  "moderation": "Approved",
+  "operation": "operations/a3f9c166-190f-4a7a-9f16-5dd4cc51fedf",
+  "file": "granite_moss_color.png",
+  "upload_s": 16.8,
+  "utc": "2026-10-11T16:48:19Z"
+ },
+ "tex_granite_moss_normal": {
+  "assetId": "136868600869938",
+  "moderation": "Approved",
+  "operation": "operations/1992ea3a-8312-4505-a547-ec101acc32da",
+  "file": "granite_moss_normal.png",
+  "upload_s": 5.5,
+  "utc": "2026-10-11T16:48:26Z"
+ },
+ "tex_granite_moss_rough": {
+  "assetId": "105776995874951",
+  "moderation": "Approved",
+  "operation": "operations/cd3a0854-42c7-4991-a820-c42e3e401a6d",
+  "file": "granite_moss_rough.png",
+  "upload_s": 7.4,
+  "utc": "2026-10-11T16:48:34Z"
+ },
+ "tex_pebbles_color": {
+  "assetId": "93152405036474",
+  "moderation": "Approved",
+  "operation": "operations/82aaa6fb-f656-4a3f-a762-1e5fd1908075",
+  "file": "pebbles_color.png",
+  "upload_s": 4.4,
+  "utc": "2026-10-11T16:48:40Z"
+ },
+ "tex_pebbles_normal": {
+  "assetId": "130847987351340",
+  "moderation": "Approved",
+  "operation": "operations/956d13cd-9805-4031-a42b-127b9e00b8d5",
+  "file": "pebbles_normal.png",
+  "upload_s": 4.3,
+  "utc": "2026-10-11T16:48:45Z"
+ },
+ "tex_pebbles_rough": {
+  "assetId": "120544783230955",
+  "moderation": "Approved",
+  "operation": "operations/e8bb280d-1313-4fc6-9e6c-705133bf4f09",
+  "file": "pebbles_rough.png",
+  "upload_s": 4.1,
+  "utc": "2026-10-11T16:48:50Z"
+ },
+ "tex_dark_earth_color": {
+  "assetId": "112573904098154",
+  "moderation": "Approved",
+  "operation": "operations/2f4bc03e-772c-422e-85ad-76ba4b534ef5",
+  "file": "dark_earth_color.png",
+  "upload_s": 4.7,
+  "utc": "2026-10-11T16:48:56Z"
+ },
+ "tex_dark_earth_normal": {
+  "assetId": "132355096076042",
+  "moderation": "Approved",
+  "operation": "operations/8d17f879-9439-462c-9769-7596f5467cd9",
+  "file": "dark_earth_normal.png",
+  "upload_s": 4.6,
+  "utc": "2026-10-11T16:49:02Z"
+ },
+ "tex_dark_earth_rough": {
+  "assetId": "133934143270290",
+  "moderation": "Approved",
+  "operation": "operations/ee7a2fde-8b50-485e-ac26-183299aac0c3",
+  "file": "dark_earth_rough.png",
+  "upload_s": 8.6,
+  "utc": "2026-10-11T16:49:11Z"
+ },
+ "tex_dry_grass_color": {
+  "assetId": "122902077154015",
+  "moderation": "Approved",
+  "operation": "operations/3dd8bf4a-20d9-490c-aa95-c60b9a6e5e35",
+  "file": "dry_grass_color.png",
+  "upload_s": 4.3,
+  "utc": "2026-10-11T16:49:17Z"
+ },
+ "tex_dry_grass_normal": {
+  "assetId": "91606900552203",
+  "moderation": "Approved",
+  "operation": "operations/95fc7ce9-ae19-4d00-a1c5-d547503e14f5",
+  "file": "dry_grass_normal.png",
+  "upload_s": 4.3,
+  "utc": "2026-10-11T16:49:22Z"
+ },
+ "tex_dry_grass_rough": {
+  "assetId": "80144400793786",
+  "moderation": "Approved",
+  "operation": "operations/9a977a22-4cb9-4fe7-b92b-d0ebd543f802",
+  "file": "dry_grass_rough.png",
+  "upload_s": 4.0,
+  "utc": "2026-10-11T16:49:27Z"
+ },
+ "tex_granite_moss_v2_color": {
+  "assetId": "122521552630223",
+  "moderation": "Approved",
+  "operation": "operations/51aa414e-3331-4d81-afae-b51cfb55538c",
+  "file": "granite_moss_v2_color.png",
+  "upload_s": 5.3,
+  "utc": "2026-10-11T17:48:54Z"
+ },
+ "tex_pebbles_v2_color": {
+  "assetId": "94587327387735",
+  "moderation": "Approved",
+  "operation": "operations/8ef6ba5e-f121-43b9-bd16-bdc7101d5d3c",
+  "file": "pebbles_v2_color.png",
+  "upload_s": 15.8,
+  "utc": "2026-10-11T17:49:11Z"
+ },
+ "tex_dark_earth_v2_color": {
+  "assetId": "88476531569091",
+  "moderation": "Approved",
+  "operation": "operations/c4350413-7da5-491d-84ac-1ba2255fb5e4",
+  "file": "dark_earth_v2_color.png",
+  "upload_s": 16.7,
+  "utc": "2026-10-11T17:49:29Z"
+ },
+ "tex_dry_grass_v2_color": {
+  "assetId": "74118040480955",
+  "moderation": "Approved",
+  "operation": "operations/027bb147-5cc3-406a-a97c-225e2f2b14b6",
+  "file": "dry_grass_v2_color.png",
+  "upload_s": 5.4,
+  "utc": "2026-10-11T17:49:35Z"
+ }
+}

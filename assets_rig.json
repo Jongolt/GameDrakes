@@ -1,0 +1,554 @@
+{
+ "rig_ember_s3_rigged": {
+  "assetId": "117926511872450",
+  "moderation": "Approved",
+  "operation": "operations/e8757d19-546d-40f3-a8cc-fa4fd5ba78e2",
+  "file": "ember_s3_rigged.glb",
+  "upload_s": 11.2,
+  "utc": "12:42:39"
+ },
+ "rig_ember_s1_rigged": {
+  "assetId": "119277309844878",
+  "moderation": "Approved",
+  "operation": "operations/ef24594f-7150-4358-9879-dd88b9dcb3dc",
+  "file": "ember_s1_rigged.glb",
+  "upload_s": 14.2,
+  "utc": "12:52:18"
+ },
+ "rig_ember_s2_rigged": {
+  "assetId": "125584410683717",
+  "moderation": "Approved",
+  "operation": "operations/f3b07830-24e4-467c-98ed-3bead957adc9",
+  "file": "ember_s2_rigged.glb",
+  "upload_s": 14.5,
+  "utc": "12:52:34"
+ },
+ "rig_ember_s4_rigged": {
+  "assetId": "131345587039239",
+  "moderation": "Approved",
+  "operation": "operations/85290609-eed7-4d41-ba50-a28a46c9877a",
+  "file": "ember_s4_rigged.glb",
+  "upload_s": 7.5,
+  "utc": "12:52:42"
+ },
+ "rig_frost_s3_rigged": {
+  "assetId": "76536138635549",
+  "moderation": "Approved",
+  "operation": "operations/6e7a9c36-4497-4abf-a8c4-b7abad170e15",
+  "file": "frost_s3_rigged.glb",
+  "upload_s": 14.3,
+  "utc": "12:59:26"
+ },
+ "rig_moss_s3_rigged": {
+  "assetId": "92365292325408",
+  "moderation": "Approved",
+  "operation": "operations/45d8200d-ddd4-4efa-8bbf-f6a394a1e1d1",
+  "file": "moss_s3_rigged.glb",
+  "upload_s": 14.1,
+  "utc": "12:59:41"
+ },
+ "rig_tide_s3_rigged": {
+  "assetId": "131408214850906",
+  "moderation": "Approved",
+  "operation": "operations/67c0b0c8-4a24-4721-bc24-fe49101278df",
+  "file": "tide_s3_rigged.glb",
+  "upload_s": 14.2,
+  "utc": "12:59:56"
+ },
+ "rig_storm_s3_rigged": {
+  "assetId": "125551986881762",
+  "moderation": "Approved",
+  "operation": "operations/5cefa539-3769-4be3-af02-0b1ae4cf1b6f",
+  "file": "storm_s3_rigged.glb",
+  "upload_s": 7.8,
+  "utc": "13:00:05"
+ },
+ "rig_dusk_s3_rigged": {
+  "assetId": "86280186485078",
+  "moderation": "Approved",
+  "operation": "operations/5212ab53-4b40-4036-af0d-f65422d78ff4",
+  "file": "dusk_s3_rigged.glb",
+  "upload_s": 14.8,
+  "utc": "13:00:21"
+ },
+ "rig_frost_s1_rigged": {
+  "assetId": "112044369156730",
+  "moderation": "Approved",
+  "operation": "operations/5c4bbdf4-98e1-4004-a1b0-1e0baf0f14c6",
+  "file": "frost_s1_rigged.glb",
+  "upload_s": 7.7,
+  "utc": "13:17:15"
+ },
+ "rig_frost_s2_rigged": {
+  "assetId": "119276452446528",
+  "moderation": "Approved",
+  "operation": "operations/aab7d177-25a1-4050-9f8d-9ffc546c5691",
+  "file": "frost_s2_rigged.glb",
+  "upload_s": 11.3,
+  "utc": "13:17:27"
+ },
+ "rig_frost_s4_rigged": {
+  "assetId": "125808865160215",
+  "moderation": "Approved",
+  "operation": "operations/6527e2a8-265b-40a0-ba5f-10dbff521f1f",
+  "file": "frost_s4_rigged.glb",
+  "upload_s": 7.7,
+  "utc": "13:17:36"
+ },
+ "rig_moss_s1_rigged": {
+  "assetId": "100515493065838",
+  "moderation": "Approved",
+  "operation": "operations/3765fc66-5c8c-4b1e-9059-5e5f89be6a0b",
+  "file": "moss_s1_rigged.glb",
+  "upload_s": 10.8,
+  "utc": "13:17:47"
+ },
+ "rig_moss_s2_rigged": {
+  "assetId": "88904044571471",
+  "moderation": "Approved",
+  "operation": "operations/6e08d039-93bc-4c08-a4ad-0c5c47cd1f0b",
+  "file": "moss_s2_rigged.glb",
+  "upload_s": 7.9,
+  "utc": "13:17:56"
+ },
+ "rig_moss_s4_rigged": {
+  "assetId": "90808982738251",
+  "moderation": "Approved",
+  "operation": "operations/d954ae65-aeb5-4b23-bb5c-dd44683148cb",
+  "file": "moss_s4_rigged.glb",
+  "upload_s": 17.5,
+  "utc": "13:18:15"
+ },
+ "rig_tide_s1_rigged": {
+  "assetId": "127772965420511",
+  "moderation": "Approved",
+  "operation": "operations/469984b5-475e-43c3-b059-efe6bde85b40",
+  "file": "tide_s1_rigged.glb",
+  "upload_s": 14.1,
+  "utc": "13:18:30"
+ },
+ "rig_tide_s2_rigged": {
+  "assetId": "136008834660313",
+  "moderation": "Approved",
+  "operation": "operations/96ec2acd-6700-48aa-90e1-7be218f77123",
+  "file": "tide_s2_rigged.glb",
+  "upload_s": 7.5,
+  "utc": "13:18:38"
+ },
+ "rig_tide_s4_rigged": {
+  "assetId": "88900332004840",
+  "moderation": "Approved",
+  "operation": "operations/4b020039-f1df-4e2b-9d22-f110e0182a08",
+  "file": "tide_s4_rigged.glb",
+  "upload_s": 11.1,
+  "utc": "13:18:50"
+ },
+ "rig_storm_s1_rigged": {
+  "assetId": "123171610708436",
+  "moderation": "Approved",
+  "operation": "operations/281d60e6-0c3e-4457-87a5-f1d3ed043dd9",
+  "file": "storm_s1_rigged.glb",
+  "upload_s": 11.1,
+  "utc": "13:19:03"
+ },
+ "rig_storm_s2_rigged": {
+  "assetId": "113547994416593",
+  "moderation": "Approved",
+  "operation": "operations/0df5a8fa-c5f7-4043-a1e5-2eb11750aca3",
+  "file": "storm_s2_rigged.glb",
+  "upload_s": 11.1,
+  "utc": "13:19:15"
+ },
+ "rig_storm_s4_rigged": {
+  "assetId": "119975586384390",
+  "moderation": "Approved",
+  "operation": "operations/42fedeab-ca4e-4250-9dbd-c04002559aa4",
+  "file": "storm_s4_rigged.glb",
+  "upload_s": 14.1,
+  "utc": "13:19:30"
+ },
+ "rig_dusk_s1_rigged": {
+  "assetId": "118748452359465",
+  "moderation": "Approved",
+  "operation": "operations/2e4b0069-a684-4ba5-9a23-6347d17523f2",
+  "file": "dusk_s1_rigged.glb",
+  "upload_s": 7.7,
+  "utc": "13:19:39"
+ },
+ "rig_dusk_s2_rigged": {
+  "assetId": "113668024613565",
+  "moderation": "Approved",
+  "operation": "operations/4a12c12f-4b38-4ac6-a037-c789e9dde301",
+  "file": "dusk_s2_rigged.glb",
+  "upload_s": 11.0,
+  "utc": "13:19:51"
+ },
+ "rig_dusk_s4_rigged": {
+  "assetId": "110543875763388",
+  "moderation": "Approved",
+  "operation": "operations/d163abc2-e726-498a-a3e2-0971f88b6391",
+  "file": "dusk_s4_rigged.glb",
+  "upload_s": 8.0,
+  "utc": "13:20:00"
+ },
+ "v4_ember_s3_b_fit_rigged": {
+  "assetId": "76630870920482",
+  "moderation": "Approved",
+  "operation": "operations/5759f2ce-a825-4589-bd60-7be7ffab7d48",
+  "file": "ember_s3_b_fit_rigged.glb",
+  "upload_s": 7.8,
+  "utc": "14:36:49"
+ },
+ "v4_ember_s1_rigged": {
+  "assetId": "78838233837073",
+  "moderation": "Approved",
+  "operation": "operations/4c1a4539-7c3e-4b83-870a-2d4b0a002887",
+  "file": "ember_s1_rigged.glb",
+  "upload_s": 14.6,
+  "utc": "15:05:03"
+ },
+ "v4_ember_s2_rigged": {
+  "assetId": "98466617872747",
+  "moderation": "Approved",
+  "operation": "operations/80da5c49-2b65-410e-a5a7-e9e807572daa",
+  "file": "ember_s2_rigged.glb",
+  "upload_s": 7.8,
+  "utc": "15:05:12"
+ },
+ "v4_ember_s4_rigged": {
+  "assetId": "75754135353761",
+  "moderation": "Approved",
+  "operation": "operations/1daef0df-6ba3-4358-8248-9dbced499456",
+  "file": "ember_s4_rigged.glb",
+  "upload_s": 11.1,
+  "utc": "15:05:24"
+ },
+ "v4_dusk_s1_rigged": {
+  "assetId": "120145294440718",
+  "moderation": "Approved",
+  "operation": "operations/46a509c7-0f51-410b-ad51-997a4db35b1d",
+  "file": "dusk_s1_rigged.glb",
+  "upload_s": 11.2,
+  "utc": "16:32:44"
+ },
+ "v4_dusk_s2_rigged": {
+  "assetId": "129501090140577",
+  "moderation": "Approved",
+  "operation": "operations/8405670d-ebb5-40aa-b64b-be2622310354",
+  "file": "dusk_s2_rigged.glb",
+  "upload_s": 7.6,
+  "utc": "16:32:52"
+ },
+ "v4_dusk_s3_rigged": {
+  "assetId": "93463437432780",
+  "moderation": "Approved",
+  "operation": "operations/f93ea7e4-e3ca-4ed7-a2a9-a0a2cb567bb0",
+  "file": "dusk_s3_rigged.glb",
+  "upload_s": 10.9,
+  "utc": "16:33:04"
+ },
+ "v4_dusk_s4_rigged": {
+  "assetId": "115903679375472",
+  "moderation": "Approved",
+  "operation": "operations/34d03de9-ae5b-4c68-886d-1202ac8b390c",
+  "file": "dusk_s4_rigged.glb",
+  "upload_s": 7.5,
+  "utc": "16:33:13"
+ },
+ "v4_frost_s1_rigged": {
+  "assetId": "108159089995444",
+  "moderation": "Approved",
+  "operation": "operations/1216a7b4-f170-44c6-ba5c-8cfe60606ea5",
+  "file": "frost_s1_rigged.glb",
+  "upload_s": 12.1,
+  "utc": "16:33:26"
+ },
+ "v4_frost_s2_rigged": {
+  "assetId": "117048458706665",
+  "moderation": "Approved",
+  "operation": "operations/03ace31f-cec3-45bc-94e9-0eb7b24e2416",
+  "file": "frost_s2_rigged.glb",
+  "upload_s": 7.5,
+  "utc": "16:33:34"
+ },
+ "v4_frost_s3_rigged": {
+  "assetId": "127084848953488",
+  "moderation": "Approved",
+  "operation": "operations/ef2706a2-8c64-4949-880e-0c73133c60ab",
+  "file": "frost_s3_rigged.glb",
+  "upload_s": 7.7,
+  "utc": "16:33:43"
+ },
+ "v4_frost_s4_rigged": {
+  "assetId": "105138065598569",
+  "moderation": "Approved",
+  "operation": "operations/e8f69fe1-465c-451a-b413-c77482e99909",
+  "file": "frost_s4_rigged.glb",
+  "upload_s": 18.1,
+  "utc": "16:34:02"
+ },
+ "v4_moss_s1_rigged": {
+  "assetId": "71464248214984",
+  "moderation": "Approved",
+  "operation": "operations/1a52beab-4fb1-4595-b8b7-6d5e64e22d53",
+  "file": "moss_s1_rigged.glb",
+  "upload_s": 21.2,
+  "utc": "16:34:24"
+ },
+ "v4_moss_s2_rigged": {
+  "assetId": "104289811752394",
+  "moderation": "Approved",
+  "operation": "operations/2e0a049a-12b4-4b26-8c67-4eebc07b2cad",
+  "file": "moss_s2_rigged.glb",
+  "upload_s": 8.2,
+  "utc": "16:34:33"
+ },
+ "v4_moss_s3_rigged": {
+  "assetId": "131521268933196",
+  "moderation": "Approved",
+  "operation": "operations/eff24d1e-c6f5-460d-8543-ff80c1dfcff8",
+  "file": "moss_s3_rigged.glb",
+  "upload_s": 10.8,
+  "utc": "16:34:45"
+ },
+ "v4_moss_s4_rigged": {
+  "assetId": "99275529710695",
+  "moderation": "Approved",
+  "operation": "operations/1262b18d-612f-4899-a5e2-33c71223d108",
+  "file": "moss_s4_rigged.glb",
+  "upload_s": 18.6,
+  "utc": "16:47:34"
+ },
+ "v4_storm_s1_rigged": {
+  "assetId": "111090964827350",
+  "moderation": "Approved",
+  "operation": "operations/2a6a0e9c-7c06-485f-9be0-7064ee4cb452",
+  "file": "storm_s1_rigged.glb",
+  "upload_s": 17.5,
+  "utc": "16:47:53"
+ },
+ "v4_storm_s3_rigged": {
+  "assetId": "126637084615821",
+  "moderation": "Approved",
+  "operation": "operations/16c4ab32-c171-42f8-bea9-3abc4bdff075",
+  "file": "storm_s3_rigged.glb",
+  "upload_s": 11.2,
+  "utc": "17:59:40"
+ },
+ "v4_storm_s4_rigged": {
+  "assetId": "93927688496865",
+  "moderation": "Approved",
+  "operation": "operations/3f7d1ff8-90e9-48df-aed3-9b3dd8789fe0",
+  "file": "storm_s4_rigged.glb",
+  "upload_s": 7.7,
+  "utc": "17:59:49"
+ },
+ "v4_tide_s1_rigged": {
+  "assetId": "93013426103792",
+  "moderation": "Approved",
+  "operation": "operations/17b4ff93-ff30-45f0-8b08-0df8c1020b90",
+  "file": "tide_s1_rigged.glb",
+  "upload_s": 14.2,
+  "utc": "18:00:04"
+ },
+ "v4_tide_s2_rigged": {
+  "assetId": "99655463182298",
+  "moderation": "Approved",
+  "operation": "operations/28b1c351-b6bc-4cfc-9d11-5251a5c16faf",
+  "file": "tide_s2_rigged.glb",
+  "upload_s": 7.7,
+  "utc": "18:00:12"
+ },
+ "v4_tide_s3_rigged": {
+  "assetId": "129696041052426",
+  "moderation": "Approved",
+  "operation": "operations/3e4d4c38-9e4e-451e-9903-3425a9aaf481",
+  "file": "tide_s3_rigged.glb",
+  "upload_s": 14.3,
+  "utc": "18:00:28"
+ },
+ "v4_tide_s4_rigged": {
+  "assetId": "104166233966453",
+  "moderation": "Approved",
+  "operation": "operations/870cfa95-e06c-455f-918e-40ddb4584b9c",
+  "file": "tide_s4_rigged.glb",
+  "upload_s": 17.9,
+  "utc": "18:00:47"
+ },
+ "v4_storm_s2_rigged": {
+  "assetId": "72597732703902",
+  "moderation": "Approved",
+  "operation": "operations/317a2174-05bf-4dab-a49e-28041d0484d0",
+  "file": "storm_s2_rigged.glb",
+  "upload_s": 14.3,
+  "utc": "18:01:42"
+ },
+ "v4b_dusk_s3_rigged": {
+  "assetId": "90085236948886",
+  "moderation": "Approved",
+  "operation": "operations/562e1247-c9a0-41d7-b5ce-18e89b839443",
+  "file": "dusk_s3_rigged.glb",
+  "upload_s": 7.7,
+  "utc": "19:11:05"
+ },
+ "v4b_frost_s3_rigged": {
+  "assetId": "102395743725212",
+  "moderation": "Approved",
+  "operation": "operations/157904b9-b294-4ff6-b12f-7a239f2ebcac",
+  "file": "frost_s3_rigged.glb",
+  "upload_s": 18.6,
+  "utc": "19:15:03"
+ },
+ "v4b_moss_s3_rigged": {
+  "assetId": "71411158120162",
+  "moderation": "Approved",
+  "operation": "operations/3142740a-7ee6-4423-be3f-b52e851b3b32",
+  "file": "moss_s3_rigged.glb",
+  "upload_s": 11.3,
+  "utc": "19:18:56"
+ },
+ "v4b_tide_s4_rigged": {
+  "assetId": "120576610721253",
+  "moderation": "Approved",
+  "operation": "operations/ec97570f-bd10-4794-8729-cd109f53e72a",
+  "file": "tide_s4_rigged.glb",
+  "upload_s": 14.2,
+  "utc": "19:19:11"
+ },
+ "v4b_moss_s4_rigged": {
+  "assetId": "95811029216566",
+  "moderation": "Approved",
+  "operation": "operations/adea355c-1695-4f23-b581-eedc83415f60",
+  "file": "moss_s4_rigged.glb",
+  "upload_s": 14.3,
+  "utc": "19:23:28"
+ },
+ "v4b_storm_s3_rigged": {
+  "assetId": "90111240357281",
+  "moderation": "Approved",
+  "operation": "operations/fc70d13c-0829-4b87-a913-422a628afcd7",
+  "file": "storm_s3_rigged.glb",
+  "upload_s": 11.0,
+  "utc": "19:23:40"
+ },
+ "v4b_storm_s4_rigged": {
+  "assetId": "89918911414443",
+  "moderation": "Approved",
+  "operation": "operations/de4d6c7a-5005-40e2-9814-964a31535635",
+  "file": "storm_s4_rigged.glb",
+  "upload_s": 7.8,
+  "utc": "19:23:48"
+ },
+ "v4b_tide_s3_rigged": {
+  "assetId": "73209161270760",
+  "moderation": "Approved",
+  "operation": "operations/e6e86e83-5245-4e1d-99a6-028dd2e4aa19",
+  "file": "tide_s3_rigged.glb",
+  "upload_s": 10.9,
+  "utc": "19:24:00"
+ },
+ "v4b_dusk_s4_rigged": {
+  "assetId": "107693313015119",
+  "moderation": "Approved",
+  "operation": "operations/f82c3429-29d2-47b5-b959-cfe11abefaaf",
+  "file": "dusk_s4_rigged.glb",
+  "upload_s": 14.2,
+  "utc": "19:28:40"
+ },
+ "v4b_ember_s4_rigged": {
+  "assetId": "120096038626275",
+  "moderation": "Approved",
+  "operation": "operations/40c2e897-a99b-4c46-881c-d6d3ec524f6d",
+  "file": "ember_s4_rigged.glb",
+  "upload_s": 7.7,
+  "utc": "19:28:49"
+ },
+ "v4b_frost_s1_rigged": {
+  "assetId": "126073433175064",
+  "moderation": "Approved",
+  "operation": "operations/2b40fbc1-242b-4e86-ab4a-cbc666746a9f",
+  "file": "frost_s1_rigged.glb",
+  "upload_s": 17.4,
+  "utc": "19:29:07"
+ },
+ "v4b_frost_s4_rigged": {
+  "assetId": "84190390887883",
+  "moderation": "Approved",
+  "operation": "operations/8ade76b7-0fc6-427c-9445-1edc40acd210",
+  "file": "frost_s4_rigged.glb",
+  "upload_s": 7.5,
+  "utc": "19:29:16"
+ },
+ "v4b_moss_s1_rigged": {
+  "assetId": "137146295821941",
+  "moderation": "Approved",
+  "operation": "operations/9b591c68-b7e1-479b-a367-237cdc0848ba",
+  "file": "moss_s1_rigged.glb",
+  "upload_s": 10.9,
+  "utc": "19:29:28"
+ },
+ "v4b_storm_s1_rigged": {
+  "assetId": "135258699290433",
+  "moderation": "Approved",
+  "operation": "operations/a7d246fc-8815-4076-8c4a-4a79abfb3c52",
+  "file": "storm_s1_rigged.glb",
+  "upload_s": 10.8,
+  "utc": "19:29:40"
+ },
+ "v4b_tide_s2_rigged": {
+  "assetId": "114266739023908",
+  "moderation": "Approved",
+  "operation": "operations/0cee0934-0626-48f6-9c4c-b9b9fed0da24",
+  "file": "tide_s2_rigged.glb",
+  "upload_s": 10.8,
+  "utc": "19:29:51"
+ },
+ "v4b_dusk_s2_rigged": {
+  "assetId": "105152576955179",
+  "moderation": "Approved",
+  "operation": "operations/76d5a56a-676f-4225-a00a-fed76cc5f806",
+  "file": "dusk_s2_rigged.glb",
+  "upload_s": 11.4,
+  "utc": "19:34:57"
+ },
+ "v4b_ember_s2_rigged": {
+  "assetId": "85804747975507",
+  "moderation": "Approved",
+  "operation": "operations/e267dfc8-3e09-4231-916a-43757fbbb54a",
+  "file": "ember_s2_rigged.glb",
+  "upload_s": 21.0,
+  "utc": "19:35:19"
+ },
+ "v4b_frost_s2_rigged": {
+  "assetId": "78079890007200",
+  "moderation": "Approved",
+  "operation": "operations/26951a61-7bc5-4c06-a199-9a46258e32a0",
+  "file": "frost_s2_rigged.glb",
+  "upload_s": 7.6,
+  "utc": "19:35:27"
+ },
+ "v4b_moss_s2_rigged": {
+  "assetId": "94547152589784",
+  "moderation": "Approved",
+  "operation": "operations/3b9bff82-f829-409d-887b-d7dc16a648c7",
+  "file": "moss_s2_rigged.glb",
+  "upload_s": 21.3,
+  "utc": "19:35:50"
+ },
+ "v4b_storm_s2_rigged": {
+  "assetId": "109916067115379",
+  "moderation": "Approved",
+  "operation": "operations/78360d90-480f-4ed9-a429-e0510726dada",
+  "file": "storm_s2_rigged.glb",
+  "upload_s": 18.4,
+  "utc": "19:36:09"
+ },
+ "v4b_tide_s1_rigged": {
+  "assetId": "77678456846521",
+  "moderation": "Approved",
+  "operation": "operations/657b3f68-032f-49c5-a811-110cf240ce41",
+  "file": "tide_s1_rigged.glb",
+  "upload_s": 15.9,
+  "utc": "19:36:26"
+ }
+}

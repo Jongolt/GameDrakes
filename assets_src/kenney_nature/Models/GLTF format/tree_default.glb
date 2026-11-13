@@ -1,0 +1,35 @@
+{
+ "rock_largeA.glb": {
+  "file": "rock_largeA.glb",
+  "bytes": 7552,
+  "meshes": 1,
+  "primitives": 2,
+  "triangles": 80,
+  "vertices": 292,
+  "materials": [
+   {
+    "baseColorTexture": false,
+    "normal": false,
+    "metallic": 1,
+    "roughness": 1,
+    "mr_texture": false
+   },
+   {
+    "baseColorTexture": false,
+    "normal": false,
+    "metallic": 1,
+    "roughness": 1,
+    "mr_texture": false
+   }
+  ],
+  "images": [],
+  "bbox": [
+   0.785,
+   0.26,
+   1.015
+  ],
+  "nodes": 2,
+  "skins": 0,
+  "animations": 0
+ }
+}

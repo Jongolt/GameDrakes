@@ -1,0 +1,66 @@
+{
+ "frost_glacier_s1": {
+  "assetId": "125487368140310",
+  "moderation": "Approved",
+  "operation": "operations/61b62555-22c4-4be4-94f9-094c2cb89caf",
+  "file": "frost_glacier_s1.glb",
+  "upload_s": 15.2,
+  "utc": "20:07:09"
+ },
+ "frost_glacier_s2": {
+  "assetId": "129837190025155",
+  "moderation": "Approved",
+  "operation": "operations/212f4230-d5d9-434a-8a64-f659004979f9",
+  "file": "frost_glacier_s2.glb",
+  "upload_s": 15.0,
+  "utc": "20:07:25"
+ },
+ "frost_glacier_s3": {
+  "assetId": "117446189199785",
+  "moderation": "Approved",
+  "operation": "operations/f6d591a6-4794-4d65-b3f6-618b5030bae4",
+  "file": "frost_glacier_s3.glb",
+  "upload_s": 7.7,
+  "utc": "20:07:34"
+ },
+ "frost_glacier_s4": {
+  "assetId": "101503446630171",
+  "moderation": "Approved",
+  "operation": "operations/cc035763-e6d6-4dd1-b157-90e5c7015cfe",
+  "file": "frost_glacier_s4.glb",
+  "upload_s": 14.3,
+  "utc": "20:07:49"
+ },
+ "tide_pearl_s1": {
+  "assetId": "137732305303784",
+  "moderation": "Approved",
+  "operation": "operations/5976457b-6f02-4acb-8d6b-2a281ae2449a",
+  "file": "tide_pearl_s1.glb",
+  "upload_s": 17.6,
+  "utc": "20:08:08"
+ },
+ "tide_pearl_s2": {
+  "assetId": "107139466972261",
+  "moderation": "Approved",
+  "operation": "operations/801d9619-2103-412f-a503-8553505e03cf",
+  "file": "tide_pearl_s2.glb",
+  "upload_s": 7.6,
+  "utc": "20:08:16"
+ },
+ "tide_pearl_s3": {
+  "assetId": "77543078778637",
+  "moderation": "Approved",
+  "operation": "operations/00b5169b-1710-42ea-8316-85fbea9adcf8",
+  "file": "tide_pearl_s3.glb",
+  "upload_s": 14.2,
+  "utc": "20:08:32"
+ },
+ "tide_pearl_s4": {
+  "assetId": "107142818025424",
+  "moderation": "Approved",
+  "operation": "operations/7677c9de-dac9-4343-9955-2e4561bcad2c",
+  "file": "tide_pearl_s4.glb",
+  "upload_s": 14.0,
+  "utc": "20:08:47"
+ }
+}

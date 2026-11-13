@@ -1,0 +1,851 @@
+key,source,text
+Strings.Buy.incubator,New incubator unlocked!,¡Nueva incubadora desbloqueada!
+Strings.Buy.shelf,Egg shelf +2,Estante de huevos +2
+Strings.Buy.shelfButton,+2 Shelf  {price},+2 Estante  {price}
+Strings.Buy.slot,Nest slot +1! One more dragon earns,¡Espacio en el nido +1! Un dragón más que gana
+Strings.Buy.slotTile,+1 Slot,+1 Espacio
+Strings.Buy.unlock,Unlock  {price},Desbloquear  {price}
+Strings.Card.fedLine,Growing 2x faster  {time},Crece 2x más rápido  {time}
+Strings.Card.feed,Feed  {n},Alimentar  {n}
+Strings.Card.fullyGrown,Fully grown,Adulto pleno
+Strings.Card.growNow,Grow now,Crecer ya
+Strings.Card.growsIn,Grows in {time},Crece en {time}
+Strings.Card.inNest,In the Nest,En el nido
+Strings.Card.inSanctuary,In the Sanctuary,En el santuario
+Strings.Card.isCompanion,Your companion,Tu compañero
+Strings.Card.looks,Looks,Aspecto
+Strings.Card.release,Release,Liberar
+Strings.Card.releaseCommonSure,Sure? +{n},¿Seguro? +{n}
+Strings.Card.releaseCommonTile,Release {k} Common,Liberar {k} comunes
+Strings.Card.releaseSure,Sure? +{n},¿Seguro? +{n}
+Strings.Card.released,Dragon released: +{n} coins,Dragón liberado: +{n} monedas
+Strings.Card.releasedAll,{k} dragons released: +{n} coins,{k} dragones liberados: +{n} monedas
+Strings.Card.rename,Rename,
+Strings.Card.setCompanion,Companion,Compañero
+Strings.Card.swapped,{name} went to the Sanctuary,{name} se fue al santuario
+Strings.Card.tagBig,Big,Grande
+Strings.Card.tagHuge,HUGE,ENORME
+Strings.Card.tagShiny,Shiny,Brillante
+Strings.Card.tapToOpen,Tap a dragon to see its card,Toca un dragón para ver su tarjeta
+Strings.Card.toNest,To Nest,Al nido
+Strings.Card.toSanctuary,To Sanctuary,Al santuario
+Strings.Card.treat,Treat,Golosina
+Strings.Daily.allDone,All three done! Cliffs egg,¡Las tres listas! Huevo de los Riscos
+Strings.Daily.bonus,All three: Cliffs egg,Las tres: huevo de los Riscos
+Strings.Daily.done,Daily done! {title},¡Diaria lista! {title}
+Strings.Daily.header,Daily quests,Misiones diarias
+Strings.Daily.keeperTitle,Keeper's tales,Cuentos del Guardián
+Strings.Daily.newIn,New quests in {time},Nuevas misiones en {time}
+Strings.Daily.open,Daily quests are open - see Quests,Las misiones diarias están abiertas - mira Misiones
+Strings.Daily.tiers.easy,Easy,Fácil
+Strings.Daily.tiers.hard,Hard,Difícil
+Strings.Daily.tiers.medium,Medium,Media
+Strings.Daily.titles.cliffsEgg,Bring an egg from the Cliffs,Trae un huevo de los Riscos
+Strings.Daily.titles.eggs3,Collect 3 eggs,Recoge 3 huevos
+Strings.Daily.titles.eggs5,Collect 5 eggs,Recoge 5 huevos
+Strings.Daily.titles.feed3,Feed 3 times,Alimenta 3 veces
+Strings.Daily.titles.feed5,Feed 5 times,Alimenta 5 veces
+Strings.Daily.titles.fly2,Fly for 2 minutes,Vuela 2 minutos
+Strings.Daily.titles.grow1,Grow a dragon one stage,Haz crecer un dragón una etapa
+Strings.Daily.titles.hatch2,Hatch 2 dragons,Eclosiona 2 dragones
+Strings.Daily.titles.hatch4,Hatch 4 dragons,Eclosiona 4 dragones
+Strings.Daily.titles.hatchRare,Hatch a Rare or better,Eclosiona un Raro o mejor
+Strings.Daily.titles.party1,Help in a Hatch Party,Ayuda en una Fiesta de eclosión
+Strings.Daily.titles.play10,Play 10 minutes,Juega 10 minutos
+Strings.Daily.titles.rings15,Fly through 15 wind rings,Vuela por 15 anillos de viento
+Strings.Daily.titles.rings5,Fly through 5 wind rings,Vuela por 5 anillos de viento
+Strings.Daily.titles.shards3,Collect 3 Storm shards,Recoge 3 fragmentos de Tormenta
+Strings.Daily.titles.shards6,Collect 6 Storm shards,Recoge 6 fragmentos de Tormenta
+Strings.Daily.titles.springsEgg,Bring an egg from the Springs,Trae un huevo de las Termas
+Strings.Daily.titles.summitEgg,Bring an egg from the Summit,Trae un huevo de la Cumbre
+Strings.Daily.titles.visit2,Visit 2 nests,Visita 2 nidos
+Strings.Daily.titles.weatherHatch,"Hatch a dragon during a storm, starfall or aurora","Eclosiona un dragón en tormenta, lluvia de estrellas o aurora"
+Strings.Errors.already,Already done,Ya está hecho
+Strings.Errors.already_fed,Already fed,Ya comió
+Strings.Errors.bad_code,That code doesn't work,Ese código no funciona
+Strings.Errors.bad_name,Try another name,Prueba otro nombre
+Strings.Errors.bad_request,Something went wrong,
+Strings.Errors.companion,Pick another companion first,Elige otro compañero primero
+Strings.Errors.elder,Elders are fully grown,Los ancianos ya crecieron del todo
+Strings.Errors.expired,That code has expired,Ese código caducó
+Strings.Errors.forbidden,Not allowed,
+Strings.Errors.loading,Still loading...,
+Strings.Errors.locked,Locked,
+Strings.Errors.name_cooldown,You can rename again in {n} s,Puedes renombrar de nuevo en {n} s
+Strings.Errors.needs_adult,Needs an Adult dragon,Necesitas un dragón adulto
+Strings.Errors.needs_elder,Needs an Elder dragon,Necesitas un dragón anciano
+Strings.Errors.needs_elements,Needs Elders of {n} elements,Necesitas ancianos de {n} elementos
+Strings.Errors.needs_juvenile,Needs a Juvenile dragon,Necesitas un dragón joven
+Strings.Errors.nest_full,Nest is full,El nido está lleno
+Strings.Errors.no_dragon,No such dragon,Ese dragón no existe
+Strings.Errors.no_egg,No egg here,Aquí no hay huevo
+Strings.Errors.no_player,That player has left the server,Ese jugador salió del servidor
+Strings.Errors.no_shore,No shore nearby,No hay orilla cerca
+Strings.Errors.no_slot,No free incubator,No hay incubadora libre
+Strings.Errors.no_target,Nothing to speed up right now,Nada que acelerar ahora
+Strings.Errors.no_treats,No treats left,No quedan golosinas
+Strings.Errors.not_companion,Set it as your companion first,Primero ponlo como tu compañero
+Strings.Errors.not_enough,Needs {n} more coins,Faltan {n} monedas
+Strings.Errors.not_in_nest,Only nest dragons,Solo dragones del nido
+Strings.Errors.not_owned,Get it in the Shop first,Consíguelo primero en la Tienda
+Strings.Errors.not_ready,Not ready yet,Aún no está listo
+Strings.Errors.over_water,Reach land before you dismount,Llega a tierra antes de bajarte
+Strings.Errors.owned,You already have this,Ya tienes esto
+Strings.Errors.region,Gifting isn't available between your regions,Los regalos no están disponibles entre sus regiones
+Strings.Errors.riding,You are already riding,Ya estás montando
+Strings.Errors.sanctuary_full,Sanctuary is full,El santuario está lleno
+Strings.Errors.too_far,Come closer,Acércate más
+Strings.Errors.too_fast,Slow down a little,Ve un poco más despacio
+Strings.Errors.wrong_element,This color is for {element} dragons only,Este color es solo para dragones {element}
+Strings.HUD.dragons,Dragons,
+Strings.HUD.gifts,Gifts,
+Strings.HUD.index,Index,
+Strings.HUD.nextGift,Next gift {time},Próximo regalo {time}
+Strings.HUD.quests,Quests,
+Strings.HUD.settings,Settings,
+Strings.HUD.shop,Shop,
+Strings.HUD.stormIn,Storm in {time},Tormenta en {time}
+Strings.Hatch.done,Done,
+Strings.Hatch.eggAt,{zone} Egg,Huevo de {zone}
+Strings.Hatch.fed,Fed! Grows 2x faster for 5:00,¡Comió! Crece 2x más rápido por 5:00
+Strings.Hatch.hugeLine,{player} hatched a HUGE {element}!,¡{player} eclosionó un {element} ENORME!
+Strings.Hatch.insideIn,{rarity} {element} inside  {time},{rarity} {element} dentro  {time}
+Strings.Hatch.named,Name your dragon,Ponle nombre a tu dragón
+Strings.Hatch.rareNest,A rare egg appeared at the {zone}!,¡Apareció un huevo raro en {zone}!
+Strings.Hatch.serverLine,{player} hatched a {rarity} {element} dragon!,¡{player} eclosionó un dragón {element} {rarity}!
+Strings.Hatch.skip,Skip,
+Strings.Hints.backToShore,Back to shore,Vuelve a la orilla
+Strings.Hints.canFly,Your dragon can fly!,¡Tu dragón puede volar!
+Strings.Hints.canFlySub,Hop on and hold Jump to take off,Súbete y mantén Saltar para despegar
+Strings.Hints.coinsFly,Coins fly to you when you walk over them,Las monedas vuelan hacia ti al pasar sobre ellas
+Strings.Hints.collectPile,Walk over the coins to collect,Pasa sobre las monedas para recogerlas
+Strings.Hints.dismount,Dismount,Bajar
+Strings.Hints.down,Down,
+Strings.Hints.eggCold,The egg is cold - it will hatch slower,El huevo está frío - eclosionará más lento
+Strings.Hints.feed,Feed,Alimentar
+Strings.Hints.feedAll,Feed All,Alimentar a todos
+Strings.Hints.feedHint,Feed your dragon to grow 2x faster,Alimenta a tu dragón para crecer 2x más rápido
+Strings.Hints.findEgg,Find an egg in the meadow,Encuentra un huevo en la pradera
+Strings.Hints.fly,Fly,Volar
+Strings.Hints.flyControls,Hold Jump to climb. Down to dive.,Mantén Saltar para subir. Abajo para picar.
+Strings.Hints.glideHint,Step off the ledge into the wind,Salta del borde hacia el viento
+Strings.Hints.gliding,Gliding! Steer with the camera,¡Planeando! Dirige con la cámara
+Strings.Hints.goTable,Pick an egg from the table,Toma un huevo de la mesa
+Strings.Hints.grewUp,Your dragon grew up!,¡Tu dragón creció!
+Strings.Hints.grewUpSub,Ride it!,¡Móntalo!
+Strings.Hints.hatch,Hatch,Eclosionar
+Strings.Hints.hatchGo,Egg ready - go to your nest,Huevo listo - ve a tu nido
+Strings.Hints.keepWarm,Keep it warm! {time},¡Mantenlo caliente! {time}
+Strings.Hints.landed,Landed,Aterrizaste
+Strings.Hints.nestFull,Nest full,Nido lleno
+Strings.Hints.nestUpstairs,Your nest is up the stairs,Tu nido está subiendo las escaleras
+Strings.Hints.overWater,Reach land before you dismount,Llega a tierra antes de bajarte
+Strings.Hints.ready,Ready!,¡Listo!
+Strings.Hints.ride,Ride,Montar
+Strings.Hints.rideHint,Hop on your dragon - tap Ride,Súbete a tu dragón - toca Montar
+Strings.Hints.riding,Riding! Tap Dismount to get off,¡Montando! Toca Bajar para bajarte
+Strings.Hints.swimNoDragon,Swimming is slow... head back to shore,Nadar es lento... vuelve a la orilla
+Strings.Hints.swimming,Swimming is slow... ride your dragon!,Nadar es lento... ¡monta tu dragón!
+Strings.Hints.takeOff,Hold Jump while riding to take off,Mantén Saltar mientras montas para despegar
+Strings.Hints.takeOffHint,Hold Jump to take off,Mantén Saltar para despegar
+Strings.Hints.tapHatch,Tap Hatch!,¡Toca Eclosionar!
+Strings.Hints.toIncubator,Put the egg in the incubator,Pon el huevo en la incubadora
+Strings.Hints.tooYoung,Too young to fly - it flies when it grows up,Muy joven para volar - volará cuando crezca
+Strings.Hints.turnBack,Open sea ahead - turn back!,Mar abierto adelante - ¡da la vuelta!
+Strings.Hints.up,Up,
+Strings.Hints.warmEgg,Warm egg! Put it in the nest,¡Huevo tibio! Ponlo en el nido
+Strings.Hints.windRings,Fly through the wind rings,Vuela por los anillos de viento
+Strings.Index.ancientWorldwide,Ancient dragons hatched worldwide: {n},Dragones antiguos eclosionados en el mundo: {n}
+Strings.Index.bonusNext,Next: +{b}% at {t}%,Siguiente: +{b}% al {t}%
+Strings.Index.bonusNow,Income +{b}%,Ingresos +{b}%
+Strings.Index.button,Index {pct}%,Índice {pct}%
+Strings.Index.claim,Claim,
+Strings.Index.claimAll,CLAIM ALL ({n})!,¡RECLAMAR TODO ({n})!
+Strings.Index.claimed,Claimed,
+Strings.Index.header,Dragon Index {k}/{n}  ({pct}%),Índice de dragones {k}/{n}  ({pct}%)
+Strings.Index.meadowSet,Dragon Index: Meadow set {n}/10,Índice de dragones: set de la Pradera {n}/10
+Strings.Index.newEntry,New Index entry: {name} ({k}/{n}),Nueva entrada en el Índice: {name} ({k}/{n})
+Strings.Index.odds,Odds,Probabilidades
+Strings.Index.rewardSet,{m} min of income,{m} min de ingresos
+Strings.Index.sets.dusk,{Dusk} set,Set de {Dusk}
+Strings.Index.sets.ember,{Ember} set,Set de {Ember}
+Strings.Index.sets.frost,{Frost} set,Set de {Frost}
+Strings.Index.sets.meadow,Meadow set,Set de la Pradera
+Strings.Index.sets.moss,{Moss} set,Set de {Moss}
+Strings.Index.sets.storm,{Storm} set,Set de {Storm}
+Strings.Index.sets.tide,{Tide} set,Set de {Tide}
+Strings.Index.title,Dragon Index,Índice de dragones
+Strings.Keeper.berries,Here are 50 coins. Berries at my stall make a dragon grow twice as fast.,Aquí tienes 50 monedas. Las bayas de mi puesto hacen crecer a un dragón el doble de rápido.
+Strings.Keeper.firstQuest,"A nest grows with eggs. Find one in the meadow - jump off the ledge, your hatchling will glide you down.","Un nido crece con huevos. Busca uno en la pradera - salta del borde, tu cría te llevará planeando."
+Strings.Keeper.moreTales,More tales next week.,Más cuentos la próxima semana.
+Strings.Keeper.talk,Talk,
+Strings.Keeper.welcome,"Welcome, rider. Pick an egg - any of the three.","Bienvenido, jinete. Elige un huevo - cualquiera de los tres."
+Strings.LiveOps.codeDone,Code {code}!,¡Código {code}!
+Strings.LiveOps.noteObject,Old Ash's note,Nota de Old Ash
+Strings.LiveOps.noteOf,Old Ash's note {n}/{total},Nota de Old Ash {n}/{total}
+Strings.LiveOps.read,Read,
+Strings.LiveOps.updateLive,The {title} update is live!,¡Ya está la actualización {title}!
+Strings.LiveOps.updateSub,New tales from Old Ash - see Quests,Nuevos cuentos de Old Ash - mira Misiones
+Strings.LiveOps.variantLine,{player} hatched a {label} {element} dragon!,¡{player} eclosionó un dragón {element} {label}!
+Strings.Loading.buildNest,Building your nest...,Construyendo tu nido...
+Strings.Loading.dataError,We couldn't load your progress. It is safe. Please rejoin.,No pudimos cargar tu progreso. Está a salvo. Vuelve a entrar.
+Strings.Loading.dragonWord.1,dragon,dragón
+Strings.Loading.dragonWord.2,dragons,dragones
+Strings.Loading.eggWord.1,egg,huevo
+Strings.Loading.eggWord.2,eggs,huevos
+Strings.Loading.eggsHatching,{e} {ew} hatching,{e} {ew} eclosionando
+Strings.Loading.eggsReady,{e} {ew} ready,{e} {ew} listos
+Strings.Loading.findData,Finding your dragons...,Buscando tus dragones...
+Strings.Loading.nestNew,A new nest is waiting for you,Un nido nuevo te espera
+Strings.Loading.nestSummary,Your nest: {d} {dw},Tu nido: {d} {dw}
+Strings.Loading.saveError,"Saving failed. If you leave now, recent changes may be lost.","No se pudo guardar. Si sales ahora, podrías perder cambios recientes."
+Strings.Loading.sessionElsewhere,Your dragons are open on another server. Please rejoin.,Tus dragones están abiertos en otro servidor. Vuelve a entrar.
+Strings.Loading.skip,Tap to skip,
+Strings.Loading.spawn,Spawning...,Apareciendo...
+Strings.Loading.tips.1,Eggs are free - find them in all 4 zones,Los huevos son gratis - búscalos en las 4 zonas
+Strings.Loading.tips.2,Feed your dragon to make it grow 2x faster,Alimenta a tu dragón para que crezca 2x más rápido
+Strings.Loading.tips.3,A baby dragon rides on your shoulder,Una cría de dragón va en tu hombro
+Strings.Loading.tips.4,Jump off a ledge - your baby dragon glides you down,Salta de un borde - tu cría te lleva planeando
+Strings.Loading.tips.5,Teen dragons carry you - tap Ride,Los dragones jóvenes te llevan - toca Montar
+Strings.Loading.tips.6,Adult dragons fly - hold Jump to take off,Los dragones adultos vuelan - mantén Saltar para despegar
+Strings.Loading.tips.7,Fly through wind rings for bonus coins,Vuela por anillos de viento para ganar monedas extra
+Strings.Loading.tips.8,Old Ash at the Berry Stall has tasks for you,"Old Ash, en el puesto de bayas, tiene tareas para ti"
+Strings.Loading.tips.9,The Index has 36 dragons to discover,El Índice tiene 36 dragones por descubrir
+Strings.Loading.tips.10,Your nest makes coins - walk over the pile,Tu nido genera monedas - pasa sobre el montón
+Strings.Loading.title,"Find, Feed & Fly Dragons","Find, Feed & Fly Dragons"
+Strings.Loading.waitNetwork,Waiting for network...,
+Strings.Loading.welcomeBack,"Welcome back, {name}","Bienvenido de nuevo, {name}"
+Strings.Loading.welcomeNew,"Welcome, rider","Bienvenido, jinete"
+Strings.Looks.ascendedTag,Ascended {roman},Ascendido {roman}
+Strings.Looks.presetAuto,{name} color is on {dragon}. Move it on any dragon card,El color {name} está en {dragon}. Muévelo en cualquier tarjeta de dragón
+Strings.Looks.presetMove,Move {name},Mover {name}
+Strings.Looks.presetOff,{name} color removed,Color {name} quitado
+Strings.Looks.presetSet,{name} color on {dragon},Color {name} en {dragon}
+Strings.Looks.presets.sunset,Sunset,Atardecer
+Strings.Looks.skinRow,Nest look:,Aspecto del nido:
+Strings.Looks.skinSet,Nest look: {name}. See it at your nest,Aspecto del nido: {name}. Míralo en tu nido
+Strings.Looks.skins.classic,Classic,Clásico
+Strings.Looks.skins.ascended,Ascended,Ascendido
+Strings.Looks.skins.gilded,Gilded,Dorado
+Strings.Looks.skins.lagoon,Lagoon,Laguna
+Strings.Looks.skins.night,Night Sky,Cielo nocturno
+Strings.Looks.skins.royal,Royal,Real
+Strings.Looks.titles.nestLord,Nest Lord,Señor del Nido
+Strings.Loop.basketFull,Your basket is full,Tu cesta está llena
+Strings.Loop.busy,This incubator is busy,Esta incubadora está ocupada
+Strings.Loop.carrying,Carrying: {rarity} {element} egg,Llevas: huevo {element} {rarity}
+Strings.Loop.coinStat,Coins,
+Strings.Loop.coins,{n} coins,{n} monedas
+Strings.Loop.collect,Collect,
+Strings.Loop.eggObject,{rarity} egg,Huevo {rarity}
+Strings.Loop.hatch,Hatch!,¡Eclosionar!
+Strings.Loop.hatched,{rarity} {element} hatched!,¡Nació {element} {rarity}!
+Strings.Loop.incubator,Incubator,Incubadora
+Strings.Loop.locked,Locked,
+Strings.Loop.needEgg,Find an egg first,Primero encuentra un huevo
+Strings.Loop.notYours,This is not your nest,Este no es tu nido
+Strings.Loop.pick,Pick up,Recoger
+Strings.Loop.picked,{rarity} {element} egg! Take it to your nest,¡Huevo {element} {rarity}! Llévalo a tu nido
+Strings.Loop.place,Place egg,Poner huevo
+Strings.Loop.stageUp,{name} grew into an {stage}!,¡{name} creció y ahora es {stage}!
+Strings.Loop.toSanctuary,Nest full: {name} went to the Sanctuary,Nido lleno: {name} se fue al santuario
+Strings.Loop.swappedOut,{name} moved to the Sanctuary to make room for {new},{name} se fue al santuario para dejar sitio a {new}
+Strings.Loop.warming,Hatching in {time},Eclosiona en {time}
+Strings.Loop.withRider,{name} is out with its rider,{name} salió con su jinete
+Strings.Loop.yourNest,{player}'s Nest,Nido de {player}
+Strings.Menu.ascend,Ascend,Ascender
+Strings.Menu.ascendNeed,Needs {what} + {cost} coins,Necesitas {what} + {cost} monedas
+Strings.Menu.ascendTitle,Ascension {roman}: income x{n},Ascensión {roman}: ingresos x{n}
+Strings.Menu.back,Back,
+Strings.Menu.bots,Bots: {n},Bots: {n}
+Strings.Menu.botsOff,Bots: off,Bots: no
+Strings.Menu.close,Close,
+Strings.Menu.code,Code,
+Strings.Menu.codeHint,Enter code,
+Strings.Menu.dragons,Dragons,
+Strings.Menu.empty,No dragons yet. Hatch an egg!,Aún no hay dragones. ¡Eclosiona un huevo!
+Strings.Menu.music,Music,
+Strings.Menu.needAdult,an Adult dragon,un dragón adulto
+Strings.Menu.needElder,an Elder dragon,un dragón anciano
+Strings.Menu.needElders,Elders of {n} elements,ancianos de {n} elementos
+Strings.Menu.nest,Nest,Nido
+Strings.Menu.off,Off,
+Strings.Menu.on,On,
+Strings.Menu.otherDragons,Show other riders' dragons,Mostrar dragones de otros jinetes
+Strings.Menu.perfDone,Perf test done. Thank you!,Prueba de rendimiento lista. ¡Gracias!
+Strings.Menu.perfStart,"Perf test: stay by your nest, {n} minutes","Prueba de rendimiento: quédate junto a tu nido, {n} minutos"
+Strings.Menu.perfStep,Perf {k}/{n},Rend. {k}/{n}
+Strings.Menu.perfTest,Perf test,Prueba de rendimiento
+Strings.Menu.randomName,Random name,Nombre al azar
+Strings.Menu.redeem,Redeem,
+Strings.Menu.reset,Reset (hold 3 s),Reiniciar (mantén 3 s)
+Strings.Menu.resetDone,Progress reset. Your nest is new again.,Progreso reiniciado. Tu nido es nuevo otra vez.
+Strings.Menu.resetHold,Hold 3 s,Mantén 3 s
+Strings.Menu.resetHolding,Hold... {n},Mantén... {n}
+Strings.Menu.sanctuary,Sanctuary,Santuario
+Strings.Menu.settings,Settings,
+Strings.Menu.slots,{k} / {n} Slots,{k} / {n} espacios
+Strings.Menu.sounds,Sounds,
+Strings.Quests.allDone,ALL TALES TOLD,TODOS LOS CUENTOS CONTADOS
+Strings.Quests.allThree,All three: Cliffs egg,Las tres: huevo de los Riscos
+Strings.Quests.ascensionGoal,"Ascension I: an Adult dragon + 5,000 coins","Ascensión I: un dragón adulto + 5,000 monedas"
+Strings.Quests.current,Now,
+Strings.Quests.daily,Daily quests,Misiones diarias
+Strings.Quests.done,Done! Keeper {n}/{total}: {title},¡Listo! Guardián {n}/{total}: {title}
+Strings.Quests.doneMark,Done,
+Strings.Quests.header,Keeper's tales: {n}/{total},Cuentos del Guardián: {n}/{total}
+Strings.Quests.keeperN,KEEPER {n}/{total},GUARDIÁN {n}/{total}
+Strings.Quests.panel,Keeper {n}/{total}: {title},Guardián {n}/{total}: {title}
+Strings.Quests.pickEgg,Old Ash's gift - pick your Rare egg:,Regalo de Old Ash - elige tu huevo raro:
+Strings.Quests.rewardCoins,{n} coins,{n} monedas
+Strings.Quests.rewardEgg,{zone} egg,Huevo de {zone}
+Strings.Quests.rewardMinutes,{n} min of income,{n} min de ingresos
+Strings.Quests.rewardRare,Rare egg,Huevo raro
+Strings.Quests.start,Keeper {n}/{total}: {title},Guardián {n}/{total}: {title}
+Strings.Quests.view,View,
+Strings.Rarity.Common,Common,Común
+Strings.Rarity.Epic,Epic,Épico
+Strings.Rarity.Legendary,Legendary,Legendario
+Strings.Rarity.Mythic,Mythic,Mítico
+Strings.Rarity.Rare,Rare,Raro
+Strings.Rarity.Uncommon,Uncommon,Poco común
+Strings.Rewards.awayCoins,+{coins} coins,+{coins} monedas
+Strings.Rewards.awayDragon,Your dragon,Tu dragón
+Strings.Rewards.awayEggs,{n} {ew} ready to hatch,{n} {ew} listos para eclosionar
+Strings.Rewards.awayGrew,{name} grew to {stage},{name} creció a {stage}
+Strings.Rewards.awayMore,and {n} more,y {n} más
+Strings.Rewards.awayNote,"Your nest kept earning at 25%, up to 8 h","Tu nido siguió ganando al 25%, hasta 8 h"
+Strings.Rewards.awayTitle,While you were away,Mientras no estabas
+Strings.Rewards.banner,Season 1 banner,Bandera Temp. 1
+Strings.Rewards.berries,Berries x{n},Bayas x{n}
+Strings.Rewards.berriesFed,Berries: {n} dragons fed,Bayas: {n} dragones alimentados
+Strings.Rewards.calendarDay,Day {n}: {what},Día {n}: {what}
+Strings.Rewards.calendarHeader,Daily calendar - Day {n},Calendario diario - Día {n}
+Strings.Rewards.calendarNote,Come back tomorrow for Day {n},Vuelve mañana para el Día {n}
+Strings.Rewards.calendarStart,Come back tomorrow for your next day,Vuelve mañana para tu siguiente día
+Strings.Rewards.calendarNext,Come back tomorrow for Day {n}: {gift},Vuelve mañana para el Día {n}: {gift}
+Strings.Rewards.seasonNoteWeekly,"Points: daily quests 1 each, +1 for all three; weekly quests {n} each","Puntos: misiones diarias 1 cada una, +1 por las tres; semanales {n} cada una"
+Strings.Rewards.tomorrowTitle,"Tomorrow, Day {n}: {gift}","Mañana, Día {n}: {gift}"
+Strings.Rewards.tomorrowNote,Your nest keeps earning while you are away,Tu nido sigue ganando mientras no estás
+Strings.Next.label,NEXT,PRÓXIMO
+Strings.Next.grow,{name}: {stage} in {time},{name}: {stage} en {time}
+Strings.Next.hatch,Egg hatches in {time},El huevo eclosiona en {time}
+Strings.Next.update,{title} update in {time},Actualización {title} en {time}
+Strings.Next.updateHead,Next update: {title} in {time},Próxima actualización: {title} en {time}
+Strings.Next.notify,Notify me,Avísame
+Strings.Next.going,You'll be notified,Te avisaremos
+Strings.Rewards.calendarWaiting,Your Day {n} reward is waiting - open Gifts,Tu premio del Día {n} te espera - abre Regalos
+Strings.Rewards.chestObject,Gift chest,Cofre de regalos
+Strings.Rewards.chestPrompt,Open gifts,Abrir regalos
+Strings.Rewards.claim,Claim,
+Strings.Rewards.claimed,Done,
+Strings.Rewards.coins,Coins,
+Strings.Rewards.collect,Collect,
+Strings.Rewards.day.1,Day 1: coins,Día 1: monedas
+Strings.Rewards.day.4,Day 4: coins,Día 4: monedas
+Strings.Rewards.day.5,Day 5: a nest lantern,Día 5: un farol para el nido
+Strings.Rewards.day.6,Day 6: a Springs egg,Día 6: un huevo de las Termas
+Strings.Rewards.day.7,Day 7: a Rare dragon!,Día 7: ¡un dragón raro!
+Strings.Rewards.day.14,Day 14: an Epic egg!,Día 14: ¡un huevo épico!
+Strings.Rewards.dayTile,Day {n},Día {n}
+Strings.Rewards.egg,{zone} egg,Huevo de {zone}
+Strings.Rewards.epicEgg,Epic egg,Huevo épico
+Strings.Rewards.freeGiftDone,Studio gift taken,Regalo del estudio recibido
+Strings.Rewards.gift.5,5-minute gift,Regalo de 5 minutos
+Strings.Rewards.gift.10,10-minute gift,Regalo de 10 minutos
+Strings.Rewards.gift.15,15-minute gift: berries,Regalo de 15 minutos: bayas
+Strings.Rewards.gift.20,20-minute gift,Regalo de 20 minutos
+Strings.Rewards.gift.30,30-minute gift: a Cliffs egg!,Regalo de 30 minutos: ¡un huevo de los Riscos!
+Strings.Rewards.gift.45,45-minute gift,Regalo de 45 minutos
+Strings.Rewards.gift.60,60-minute gift: a Springs egg!,Regalo de 60 minutos: ¡un huevo de las Termas!
+Strings.Rewards.gift.90,90-minute gift: a rare nest egg!,Regalo de 90 minutos: ¡un huevo de nido raro!
+Strings.Rewards.giftTile,{n} min,{n} min
+Strings.Rewards.giftsHeader,Gifts for playing,Regalos por jugar
+Strings.Rewards.giftsNote,Timer pauses after 5 min without input,El temporizador se pausa tras 5 min sin actividad
+Strings.Rewards.gotCoins,+{n} coins,+{n} monedas
+Strings.Rewards.join,Join,
+Strings.Rewards.joinGroup,Join Lanternfox Studios - get a {Moss} egg (Uncommon or better),Únete a Lanternfox Studios - consigue un huevo {Moss} (Poco común o mejor)
+Strings.Rewards.joined,Welcome to Lanternfox Studios! Here is your {Moss} egg,¡Bienvenido a Lanternfox Studios! Aquí tienes tu huevo {Moss}
+Strings.Rewards.lantern,Nest lantern,Farol del nido
+Strings.Rewards.likeNote,"Like and favorite if you enjoy it - no reward, just thanks","Me gusta y Favorito si te divierte - sin premio, gracias"
+Strings.Rewards.minutes,{n} min of income,{n} min de ingresos
+Strings.Rewards.nextGift,Next gift: {time},Próximo regalo: {time}
+Strings.Rewards.notJoined,"Join the group first, then tap Join again",Primero únete al grupo y luego toca Unirse otra vez
+Strings.Rewards.paused,Paused,
+Strings.Rewards.pickDragon,Pick your Rare dragon:,Elige tu dragón raro:
+Strings.Rewards.pillReady,Claim!,
+Strings.Rewards.rareDragon,Rare dragon,Dragón raro
+Strings.Rewards.rareNest,Rare egg,Huevo raro
+Strings.Rewards.seasonDone,Season 1: step {n},Temporada 1: paso {n}
+Strings.Rewards.seasonEnded,Season 1 has ended - {Solstice} returns next year,La Temporada 1 terminó - {Solstice} vuelve el próximo año
+Strings.Rewards.seasonHeader,Season 1 - {n} points,Temporada 1 - {n} puntos
+Strings.Rewards.seasonHeaderOne,Season 1 - 1 point,Temporada 1 - 1 punto
+Strings.Rewards.seasonNote,"Points come from daily quests: 1 per quest, 1 more for all three","Los puntos salen de las misiones diarias: 1 por misión, 1 más por las tres"
+Strings.Rewards.seasonStep,{n} pts,{n} pts
+Strings.Rewards.solstice,{Solstice} color,Color {Solstice}
+Strings.Rewards.solsticeDragon,{Solstice} dragon!,¡Dragón {Solstice}!
+Strings.Rewards.tab,Gifts,
+Strings.Rewards.timeGift,{n}-minute gift,Regalo de {n} minutos
+Strings.Rewards.timeGiftCoins,{n}-minute gift: +{coins} coins,Regalo de {n} minutos: +{coins} monedas
+Strings.Rewards.welcomeGift,Welcome gift,Regalo de bienvenida
+Strings.Rewards.welcomeTitle,Welcome gift,Regalo de bienvenida
+Strings.Shop.alreadyOwn,You already own {k} of {n} items,Ya tienes {k} de {n} objetos
+Strings.Shop.applied.boost,Coins x2 for {time},Monedas x2 por {time}
+Strings.Shop.applied.coins,+{coins} coins,+{coins} monedas
+Strings.Shop.applied.dragon,{name} finished growing!,¡{name} terminó de crecer!
+Strings.Shop.applied.dragonWeek,{name} joined your dragons!,¡{name} se unió a tus dragones!
+Strings.Shop.applied.flag,Unlocked forever,Desbloqueado para siempre
+Strings.Shop.applied.items,Treats added,Golosinas añadidas
+Strings.Shop.applied.look,Added to your Looks,Añadido a tu Aspecto
+Strings.Shop.applied.slot,Your egg is ready to hatch!,¡Tu huevo está listo para eclosionar!
+Strings.Shop.applied.starter,"Starter Pack: eggs on your shelf, incubator ready","Paquete inicial: huevos en tu estante, incubadora lista"
+Strings.Shop.applied.ticket,Ticket saved: it applies to your next egg or dragon,Boleto guardado: se aplica a tu próximo huevo o dragón
+Strings.Shop.archived,Archived - returns next year at a higher price,Archivado - vuelve el próximo año a un precio mayor
+Strings.Shop.bought,Got it: {name},Conseguido: {name}
+Strings.Shop.bundleHint,Best value for a full nest,La mejor opción para un nido completo
+Strings.Shop.fasterIncubator,Faster incubator,Incubadora rápida
+Strings.Shop.gift,Gift,
+Strings.Shop.giftNobody,Nobody else on this server right now. Gifts need a player here to receive them,No hay nadie más en este servidor ahora. Los regalos necesitan a alguien aquí para recibirlos
+Strings.Shop.giftPick,"Pick a player on this server, then choose a gift",Elige a un jugador de este servidor y luego un regalo
+Strings.Shop.giftReceived,A gift from {name}: {item}!,¡Un regalo de {name}: {item}!
+Strings.Shop.giftRegion,Gifting isn't available between your regions,Los regalos no están disponibles entre sus regiones
+Strings.Shop.giftSent,Gift sent to {name},Regalo enviado a {name}
+Strings.Shop.giftTo,Gift to {name},Regalo para {name}
+Strings.Shop.growNow,Grow now,Crecer ya
+Strings.Shop.hatchNow,Hatch now,Eclosionar ya
+Strings.Shop.lines.AutoCollect_149,"Nest coins go straight to your balance, no pile cap","Las monedas del nido van directo a tu saldo, sin tope en el montón"
+Strings.Shop.lines.DragonWeek_1_199,"An Epic {Ember} hatchling with glowing cinder colors. One per account, this week only","Una cría {Ember} épica con colores de ceniza brillante. Una por cuenta, solo esta semana"
+Strings.Shop.lines.DragonWeek_2_299,"A Legendary {Dusk} hatchling. One per account, this week only","Una cría {Dusk} legendaria. Una por cuenta, solo esta semana"
+Strings.Shop.lines.FastIncubator_249,All eggs hatch 40% faster,Todos los huevos eclosionan un 40% más rápido
+Strings.Shop.lines.NestBundle_2999,"Royal nest skin, three nest slots, the Royal aura and the Nest Lord title","Aspecto de nido Real, tres espacios de nido, el aura Real y el título Señor del Nido"
+Strings.Shop.lines.NestSkin_Lagoon_299,"Turquoise fence, sign, egg table, showcase and incubator bowls for your nest","Valla, letrero, mesa de huevos, vitrina y cuencos de incubación turquesa para tu nido"
+Strings.Shop.lines.NestSkin_Night_299,"Night-blue fence, sign, table and bowls with silver posts for your nest","Valla, letrero, mesa y cuencos azul noche con postes plateados para tu nido"
+Strings.Shop.lines.NestSlot1_99,One more dragon earns in your nest,Un dragón más que gana en tu nido
+Strings.Shop.lines.NestSlot2_199,One more dragon earns in your nest. Requires slot I,Un dragón más que gana en tu nido. Requiere el espacio I
+Strings.Shop.lines.NestSlot3_399,One more dragon earns in your nest. Requires slot II,Un dragón más que gana en tu nido. Requiere el espacio II
+Strings.Shop.lines.Preset_Sunset_99,A warm color preset for one dragon. Move it between dragons any time,Un color cálido para un dragón. Muévelo entre dragones cuando quieras
+Strings.Shop.lines.StarterPack_49,"Two eggs of your chosen elements (Rare or better), a second incubator and a rider scarf. One per account","Dos huevos de los elementos que elijas (Raro o mejor), una segunda incubadora y una bufanda de jinete. Uno por cuenta"
+Strings.Shop.lines.Trail_Comet_149,A glowing trail behind you in flight,Una estela brillante detrás de ti al volar
+Strings.Shop.lines.Trail_Tidal_149,A sea-blue trail behind you in flight,Una estela azul mar detrás de ti al volar
+Strings.Shop.lines.VIP_299,"+1 nest slot, +10% coins (also offline), VIP name tag, Gilded nest skin","+1 espacio de nido, +10% monedas (también sin conexión), etiqueta VIP, aspecto de nido Dorado"
+Strings.Shop.lines.X2Coins_299,Your nest earns double coins forever,Tu nido gana el doble de monedas para siempre
+Strings.Shop.lines.boost,Double coins while you play. The timer only runs in game,Doble de monedas mientras juegas. El temporizador solo corre en el juego
+Strings.Shop.lines.growNow,Finish a dragon's growth timer. Price depends on the time left.,Termina el tiempo de crecimiento de un dragón. El precio depende del tiempo restante.
+Strings.Shop.lines.hatchNow,Finish hatching your longest egg. Price depends on the time left.,Termina la eclosión de tu huevo más largo. El precio depende del tiempo restante.
+Strings.Shop.lines.income,= {coins} coins at your current rate,= {coins} monedas a tu ritmo actual
+Strings.Shop.lines.treats,A treat finishes half of a dragon's growth timer,Una golosina termina la mitad del tiempo de crecimiento de un dragón
+Strings.Shop.names.AutoCollect_149,Auto Collect,Recolección automática
+Strings.Shop.names.DragonWeek_1_199,Dragon of the week: {Cinder},Dragón de la semana: {Cinder}
+Strings.Shop.names.DragonWeek_2_299,Dragon of the week: {Nightfall},Dragón de la semana: {Nightfall}
+Strings.Shop.names.FastIncubator_249,Fast Incubator,Incubadora rápida
+Strings.Shop.names.NestBundle_2999,Everything for the Nest,Todo para el nido
+Strings.Shop.names.NestSkin_Lagoon_299,Lagoon nest skin,Aspecto de nido Laguna
+Strings.Shop.names.NestSkin_Night_299,Night Sky nest skin,Aspecto de nido Cielo nocturno
+Strings.Shop.names.NestSlot1_99,Nest slot +1 (I),Espacio de nido +1 (I)
+Strings.Shop.names.NestSlot2_199,Nest slot +1 (II),Espacio de nido +1 (II)
+Strings.Shop.names.NestSlot3_399,Nest slot +1 (III),Espacio de nido +1 (III)
+Strings.Shop.names.Preset_Sunset_99,Sunset color preset,Color Atardecer
+Strings.Shop.names.StarterPack_49,Starter Pack,Paquete inicial
+Strings.Shop.names.Trail_Comet_149,Comet flight trail,Estela de vuelo Cometa
+Strings.Shop.names.Trail_Tidal_149,Tidal flight trail,Estela de vuelo Marea
+Strings.Shop.names.X2Coins_299,x2 Coins,Monedas x2
+Strings.Shop.names.boost,Coins x2 for {time},Monedas x2 por {time}
+Strings.Shop.names.growNow,Grow now,Crecer ya
+Strings.Shop.names.hatchNow,Hatch now,Eclosionar ya
+Strings.Shop.names.income,Nest income: {time},Ingresos del nido: {time}
+Strings.Shop.names.treats,Treats x{n},Golosinas x{n}
+Strings.Shop.needsCoins,Needs {n} more coins,Faltan {n} monedas
+Strings.Shop.nothingTime,Nothing to speed up right now. Eggs and growing dragons show up here,Nada que acelerar ahora. Aquí aparecen los huevos y los dragones que crecen
+Strings.Shop.openShop,Open shop,
+Strings.Shop.owned,Owned,
+Strings.Shop.ownedLine,You own this,Ya lo tienes
+Strings.Shop.pickTitle,Choose elements,Elige elementos
+Strings.Shop.requires,Requires {name},Requiere {name}
+Strings.Shop.seePrice,See price,
+Strings.Shop.starterIncubator,You already have a second incubator: you get {n} coins instead,Ya tienes una segunda incubadora: recibes {n} monedas a cambio
+Strings.Shop.starterPick,Pick two elements for your eggs,Elige dos elementos para tus huevos
+Strings.Shop.tabs.coins,Coins,
+Strings.Shop.tabs.gifts,Gifts,
+Strings.Shop.tabs.looks,Looks,Aspecto
+Strings.Shop.tabs.nest,Nest,Nido
+Strings.Shop.tabs.time,Time,Tiempo
+Strings.Shop.ticket,Ticket x{n},Boleto x{n}
+Strings.Shop.ticketUsed,Ticket used: {name},Boleto usado: {name}
+Strings.Shop.title,Shop,
+Strings.Shop.treat,Treat,Golosina
+Strings.Shop.treatsLeft,Treats: {n},Golosinas: {n}
+Strings.Shop.useTicket,Use ticket,Usar boleto
+Strings.Shop.view,View,
+Strings.Social.friendParty,Friend party! {name} helped - hatching x3 faster,¡Fiesta de amigos! {name} ayudó - eclosión x3 más rápida
+Strings.Social.friendPartyHelper,Friend party! You helped {name} - x3,¡Fiesta de amigos! Ayudaste a {name} - x3
+Strings.Social.friendsOn,Friends on server: {n} (+{pct}%),Amigos en el servidor: {n} (+{pct}%)
+Strings.Social.frostIsle,Opens in a future update,Se abrirá en una próxima actualización
+Strings.Social.hatchAnnounce,{name} hatched a {rarity} {element}!,¡{name} eclosionó un {element} {rarity}!
+Strings.Social.hatchParty,Hatch Party: a friend who touches your incubator makes the egg hatch twice as fast,"Fiesta de eclosión: si un amigo toca tu incubadora, el huevo eclosiona el doble de rápido"
+Strings.Social.invite,Invite friends,
+Strings.Social.invitePrompt,Hatch dragons with me!,¡Eclosiona dragones conmigo!
+Strings.Social.inviteTitle,Play with friends,
+Strings.Social.inviteUnavailable,Invites are not available right now,Las invitaciones no están disponibles ahora
+Strings.Social.joinedFriend,You joined {name} - stand by their egg for a Hatch Party!,Te uniste a {name} - ¡quédate junto a su huevo para una Fiesta de eclosión!
+Strings.Social.nestSign,{name}'s Nest,Nido de {name}
+Strings.Social.newborn,Newborn,Recién nacido
+Strings.Social.partyDone,Hatch Party! {name} helped - hatching twice as fast,¡Fiesta de eclosión! {name} ayudó - eclosión el doble de rápida
+Strings.Social.partyHelper,Hatch Party! You helped {name},¡Fiesta de eclosión! Ayudaste a {name}
+Strings.Social.rareAppeared,A rare egg appeared at the {zone}!,¡Apareció un huevo raro en {zone}!
+Strings.Social.rareFound,{name} found the rare egg,{name} encontró el huevo raro
+Strings.Social.signRate,{name}'s Nest  {rate},Nido de {name}  {rate}
+Strings.Social.topNests,Top nests,Mejores nidos
+Strings.Social.unhatched,Unhatched,Sin eclosionar
+Strings.Stage.0,Hatchling,Cría
+Strings.Stage.1,Juvenile,Joven
+Strings.Stage.2,Adult,Adulto
+Strings.Stage.3,Elder,Anciano
+Strings.Steps.coins,COINS,MONEDAS
+Strings.Steps.done,Done!,¡Listo!
+Strings.Steps.egg,EGG,HUEVO
+Strings.Steps.feed,FEED,ALIMENTA
+Strings.Steps.fly,FLY,VUELA
+Strings.Steps.glide,GLIDE,PLANEA
+Strings.Steps.hatch,HATCH,ECLOSIONA
+Strings.Steps.ride,RIDE,MONTA
+Strings.Weather.ascended,Ascension {roman}! Income x{n},¡Ascensión {roman}! Ingresos x{n}
+Strings.Weather.aurora,Aurora! {Frost} eggs from the Summit hatched now become {Glacier} dragons,¡Aurora! Los huevos {Frost} de la Cumbre eclosionados ahora serán dragones {Glacier}
+Strings.Weather.dragonDone,{StormDragon}: {k}/{n} shards,{StormDragon}: {k}/{n} fragmentos
+Strings.Weather.dragonReward,+{coins} coins,+{coins} monedas
+Strings.Weather.dragonRewardEgg,+{coins} coins + Cliffs egg,+{coins} monedas + huevo de los Riscos
+Strings.Weather.lastShard,{name} took the last storm shard!,¡{name} tomó el último fragmento de tormenta!
+Strings.Weather.over,The sky clears,El cielo se despeja
+Strings.Weather.partyTimer,Update Party! New content in {time},¡Fiesta de actualización! Contenido nuevo en {time}
+Strings.Weather.shardPicked,{name} found a storm shard ({k}/{n}),{name} encontró un fragmento de tormenta ({k}/{n})
+Strings.Weather.starfall,Starfall! Eggs everywhere for 3:00,¡Lluvia de estrellas! Huevos por todas partes durante 3:00
+Strings.Weather.storm,Storm! Coins x2 for 3:00. Dragons hatched now are Stormborn,¡Tormenta! Monedas x2 durante 3:00. Los dragones que nazcan ahora son Hijos de la Tormenta
+Strings.Weather.stormDragonComing,The {StormDragon} is coming in 1:00,El {StormDragon} llega en 1:00
+Strings.Weather.stormDragonShards,Storm shards {k}/{n},Fragmentos de tormenta {k}/{n}
+Strings.Weather.timerAurora,Aurora  {time},Aurora  {time}
+Strings.Weather.timerStarfall,Starfall  {time},Lluvia de estrellas  {time}
+Strings.Weather.timerStorm,Storm x2  {time},Tormenta x2  {time}
+Strings.Weather.updateParty,Update Party! Coins x2 until the update,¡Fiesta de actualización! Monedas x2 hasta la actualización
+Strings.Weekly.badgeDone,✓ {badge} badge,✓ Insignia {badge}
+Strings.Weekly.badge,Complete one: {badge} badge,Completa una: insignia {badge}
+Strings.Weekly.done,Weekly quest done! {title},¡Misión semanal lista! {title}
+Strings.Weekly.gotBoth,"+{n} season points, {zone} egg","+{n} puntos de temporada, huevo de {zone}"
+Strings.Weekly.header,Weekly quests: {title},Misiones semanales: {title}
+Strings.Weekly.newIn,new in {time},nuevas en {time}
+Strings.Weekly.open,New weekly quests - see Quests,Nuevas misiones semanales - mira Misiones
+Strings.Weekly.reward,"+{n} pts, {zone} egg","+{n} pts, huevo de {zone}"
+Strings.Weekly.tag,Week,Semana
+Strings.Weekly.titles.auroraHatch,Hatch 2 dragons under the aurora,Eclosiona 2 dragones bajo la aurora
+Strings.Weekly.titles.duskHatch,Hatch 3 {Dusk} dragons,Eclosiona 3 dragones {Dusk}
+Strings.Weekly.titles.emberGrow,Grow {Ember} dragons 2 stages,Haz crecer dragones {Ember} 2 etapas
+Strings.Weekly.titles.emberHatch,Hatch 3 {Ember} dragons,Eclosiona 3 dragones {Ember}
+Strings.Weekly.titles.glacier,Hatch a {Glacier} dragon,Eclosiona un dragón {Glacier}
+Strings.Weekly.titles.nightHatch,Hatch 2 dragons at night,Eclosiona 2 dragones de noche
+Strings.Weekly.titles.pearl,Hatch a {Pearl} {Tide} dragon,Eclosiona un dragón {Pearl} {Tide}
+Strings.Weekly.titles.shards10,Collect 10 Storm shards,Recoge 10 fragmentos de Tormenta
+Strings.World.freeNest,Free Nest {n},Nido libre {n}
+Strings.World.frostGate,Frost Isle,Isla Frost
+Strings.World.keeperSub,the Keeper,el Guardián
+Strings.World.nestWord,Nest,Nido
+Strings.World.phase.dawn,Dawn,Amanecer
+Strings.World.phase.day,Day,Día
+Strings.World.phase.dusk,Dusk,Ocaso
+Strings.World.phase.night,Night,Noche
+Strings.World.ringBonus,+{n} coins,+{n} monedas
+Strings.World.secretFound,Secret found: the hidden grotto behind the falls!,¡Secreto encontrado: la gruta oculta tras la cascada!
+Strings.World.springsGate,Hot Springs,Termas
+Strings.World.springsGateSub,Ride a Juvenile dragon across,Cruza montando un dragón joven
+Strings.World.springsGuard,Hot Springs open to Juvenile riders - grow your dragon!,Las Termas están abiertas para jinetes de dragones jóvenes - ¡haz crecer a tu dragón!
+Strings.World.stall,Berry Stall,Puesto de bayas
+Strings.World.stallBerries,Berries for your nest,Bayas para tu nido
+Strings.World.stallFeed,Feed,Alimentar
+Strings.World.stallSub,Feed to grow 2x faster,Alimenta para crecer 2x más rápido
+Strings.World.standTitle,Dragon of the week,Dragón de la semana
+Strings.World.standView,View,
+Strings.World.summitSign,Summit - Fly Up,Cumbre - vuela hacia arriba
+Strings.World.timerIn,in {t},en {t}
+Strings.World.updraft,Updraft,Corriente ascendente
+Strings.World.updraftSub,Jump in to rise up,Entra para subir
+Strings.World.windRings,Fly through the wind rings,Vuela por los anillos de viento
+Strings.Zone.Cliffs,Cliffs,Riscos
+Strings.Zone.Meadow,Meadow,Pradera
+Strings.Zone.Springs,Springs,Termas
+Strings.Zone.Summit,Summit,Cumbre
+Content.Badges.ancient.name,Ancient Keeper,Guardián antiguo
+Content.Badges.ascend.name,Ascended,Ascendido
+Content.Badges.elder.name,Elder Keeper,Guardián anciano
+Content.Badges.flyer.name,Sky Rider,Jinete del cielo
+Content.Badges.glide.name,Glider,Planeador
+Content.Badges.hatch.name,First Hatch,Primera eclosión
+Content.Badges.index25.name,Collector,Coleccionista
+Content.Badges.party.name,Hatch Party,Fiesta de eclosión
+Content.Badges.rider.name,Rider,Jinete
+Content.Calendar.1.text,coins,monedas
+Content.Calendar.2.text,a Cliffs egg,un huevo de los Riscos
+Content.Calendar.3.text,berries,bayas
+Content.Calendar.4.text,coins,monedas
+Content.Calendar.5.text,a nest lantern,un farol para el nido
+Content.Calendar.6.text,a Springs egg,un huevo de las Termas
+Content.Calendar.7.text,a Rare dragon!,¡un dragón raro!
+Content.CalendarDay14.text,an Epic egg!,¡un huevo épico!
+Content.Daily.easy.1.title,Collect 3 eggs,Recoge 3 huevos
+Content.Daily.easy.2.title,Feed 3 times,Alimenta 3 veces
+Content.Daily.easy.3.title,Visit 2 nests,Visita 2 nidos
+Content.Daily.easy.4.title,Play 10 minutes,Juega 10 minutos
+Content.Daily.hard.1.title,Hatch a Rare or better,Eclosiona un Raro o mejor
+Content.Daily.hard.2.title,Bring an egg from the Summit,Trae un huevo de la Cumbre
+Content.Daily.hard.3.title,Collect 6 Storm shards,Recoge 6 fragmentos de Tormenta
+Content.Daily.hard.4.title,Help in a Hatch Party,Ayuda en una Fiesta de eclosión
+Content.Daily.medium.1.title,Hatch 2 dragons,Eclosiona 2 dragones
+Content.Daily.medium.2.title,Fly for 2 minutes,Vuela 2 minutos
+Content.Daily.medium.3.title,Bring an egg from the Cliffs,Trae un huevo de los Riscos
+Content.Daily.medium.4.title,Grow a dragon one stage,Haz crecer un dragón una etapa
+Content.Daily.medium.5.title,Fly through 5 wind rings,Vuela por 5 anillos de viento
+Content.Elements.dusk.trait,stars on wings,estrellas en las alas
+Content.Elements.ember.trait,flame crest,cresta de llamas
+Content.Elements.frost.trait,ice crystals,cristales de hielo
+Content.Elements.moss.trait,leaves,hojas
+Content.Elements.storm.trait,lightning horns,cuernos de rayo
+Content.Elements.tide.trait,fins,aletas
+Content.Keeper.1.text,Put the egg in the nest and keep it warm.,Pon el huevo en el nido y mantenlo caliente.
+Content.Keeper.1.title,First hatch,Primera eclosión
+Content.Keeper.2.text,Jump off the ledge. The little one will carry you.,Salta del borde. El pequeño te llevará.
+Content.Keeper.2.title,Wings of a hatchling,Alas de cría
+Content.Keeper.3.text,A nest grows with eggs. Find one in the meadow.,Un nido crece con huevos. Busca uno en la pradera.
+Content.Keeper.3.title,A second egg,Un segundo huevo
+Content.Keeper.4.text,Hungry dragons grow slow. Buy berries at my stall.,Los dragones con hambre crecen lento. Compra bayas en mi puesto.
+Content.Keeper.4.title,Berries,Bayas
+Content.Keeper.5.text,Raise one to a juvenile and ride it.,Cría uno hasta joven y móntalo.
+Content.Keeper.5.title,Growing up,Creciendo
+Content.Keeper.6.text,Two dragons earn more than one. Hatch another.,Dos dragones ganan más que uno. Eclosiona otro.
+Content.Keeper.6.title,Two in the nest,Dos en el nido
+Content.Keeper.7.text,The north cliffs hold better eggs. Glide from the north ledge.,Los riscos del norte guardan mejores huevos. Planea desde el borde norte.
+Content.Keeper.7.title,The Cliffs,Los Riscos
+Content.Keeper.8.text,An adult dragon flies. Raise one and take off.,Un dragón adulto vuela. Cría uno y despega.
+Content.Keeper.8.title,Take to the sky,Al cielo
+Content.Keeper.9.text,Five eggs found. You have the eye.,Cinco huevos encontrados. Tienes buen ojo.
+Content.Keeper.9.title,Egg hunter,Cazador de huevos
+Content.Keeper.10.text,"Strong nest, strong rider. Ascend.","Nido fuerte, jinete fuerte. Asciende."
+Content.Keeper.10.title,Ascension,Ascensión
+Content.Keeper.11.text,Four hatched. The nest is getting loud.,Cuatro nacidos. El nido se pone ruidoso.
+Content.Keeper.11.title,Four dragons,Cuatro dragones
+Content.Keeper.12.text,Ride across the bridge. The springs are warm.,Cruza el puente montando. Las termas están calentitas.
+Content.Keeper.12.title,Hot Springs,Termas
+Content.Keeper.13.text,Six. I had six once.,Seis. Yo tuve seis una vez.
+Content.Keeper.13.title,Six dragons,Seis dragones
+Content.Keeper.14.text,Wait for the first elder. Patience is a rider's wing.,Espera al primer anciano. La paciencia es el ala del jinete.
+Content.Keeper.14.title,The Elder,El Anciano
+Content.Keeper.15.text,"Ten pages filled. Here - a Rare egg, my gift.","Diez páginas llenas. Toma - un huevo raro, mi regalo."
+Content.Keeper.15.title,The Index,El Índice
+Content.Notes.1,"Note 1: The Great Egg was the size of a hatchling, and warm as the springs.","Nota 1: El Gran Huevo era del tamaño de una cría, y cálido como las termas."
+Content.Notes.2,Note 2: It hummed when the north wind blew. The cliffs answered.,Nota 2: Zumbaba cuando soplaba el viento del norte. Los riscos respondían.
+Content.Notes.3,Note 3: Steam never touched it. The springs kept it from the cold.,Nota 3: El vapor nunca lo tocó. Las termas lo protegían del frío.
+Content.Notes.4,"Note 4: On the summit the sky turned green, and the egg glowed back.","Nota 4: En la cumbre el cielo se volvió verde, y el huevo brilló de vuelta."
+Content.Notes.5,"Note 5: I kept it close all these years. Now it is yours, rider.","Nota 5: Lo guardé cerca todos estos años. Ahora es tuyo, jinete."
+Content.Notes.6,Note 1: The first {Ember} dragon slept in coals and woke at dawn.,Nota 1: El primer dragón {Ember} dormía en carbones y despertaba al amanecer.
+Content.Notes.7,Note 2: Its smoke climbed the north cliffs. The rocks still smell of it.,Nota 2: Su humo subió por los riscos del norte. Las rocas todavía huelen a él.
+Content.Notes.8,"Note 3: It bathed in the springs, and the water stayed warm for years.","Nota 3: Se bañó en las termas, y el agua siguió caliente durante años."
+Content.Notes.9,Note 4: On the summit it lit the sky for lost riders.,Nota 4: En la cumbre iluminó el cielo para los jinetes perdidos.
+Content.Notes.10,Note 5: Its last cinder hatched a new flame. Look after yours.,Nota 5: Su última brasa hizo nacer una nueva llama. Cuida la tuya.
+Content.Notes.11,Note 1: {Dusk} dragons wake when the first star shows.,Nota 1: Los dragones {Dusk} despiertan cuando sale la primera estrella.
+Content.Notes.12,"Note 2: They nest on the west cliffs, where the sun goes down.","Nota 2: Anidan en los riscos del oeste, donde se pone el sol."
+Content.Notes.13,"Note 3: They drink moonlight from the springs, or so riders say.","Nota 3: Beben luz de luna en las termas, o eso dicen los jinetes."
+Content.Notes.14,Note 4: From the summit a {Dusk} dragon can see every nest on the island.,"Nota 4: Desde la cumbre, un dragón {Dusk} ve todos los nidos de la isla."
+Content.Notes.15,Note 5: I raised one once. At night it never left my side.,Nota 5: Una vez crié uno. De noche nunca se apartaba de mí.
+Content.Updates.1.eventText,"Aurora update: new weather, Glacier Frost dragons, 5 new Keeper tales. Sunday 19:00 UTC.","Actualización Aurora: clima nuevo, dragones Glacier Frost, 5 cuentos nuevos del Guardián. Domingo 19:00 UTC."
+Content.Updates.2.eventText,"Cinder arrives: an Ember dragon of the week, 5 new Keeper tales, two new weekly quests.","Llega Cinder: un dragón Ember de la semana, 5 cuentos nuevos del Guardián, dos misiones semanales nuevas."
+Content.Updates.3.eventText,"Pearl Tide: pearl dragons at the springs, a bigger Storm Dragon, a new flight trail.","Pearl Tide: dragones Pearl en las termas, un Storm Dragon más grande, una nueva estela de vuelo."
+Content.Updates.4.eventText,"Nightfall: a Dusk dragon of the week, the Night Sky nest, last week of Season 1.","Nightfall: un dragón Dusk de la semana, el nido Cielo nocturno, última semana de la Temporada 1."
+Content.Season.rewards.4.value,Season 1 banner,Bandera Temp. 1
+Quests.1.title,First hatch,Primera eclosión
+Quests.1.text,Put the egg in the nest and keep it warm.,Pon el huevo en el nido y mantenlo caliente.
+Quests.2.title,Wings of a hatchling,Alas de cría
+Quests.2.text,Jump off the ledge. The little one will carry you.,Salta del borde. El pequeño te llevará.
+Quests.3.title,A second egg,Un segundo huevo
+Quests.3.text,A nest grows with eggs. Find one in the meadow.,Un nido crece con huevos. Busca uno en la pradera.
+Quests.4.title,Berries,Bayas
+Quests.4.text,Hungry dragons grow slow. Buy berries at my stall.,Los dragones con hambre crecen lento. Compra bayas en mi puesto.
+Quests.5.title,Growing up,Creciendo
+Quests.5.text,Raise one to a juvenile and ride it.,Cría uno hasta joven y móntalo.
+Quests.6.title,Two in the nest,Dos en el nido
+Quests.6.text,Two dragons earn more than one. Hatch another.,Dos dragones ganan más que uno. Eclosiona otro.
+Quests.7.title,The Cliffs,Los Riscos
+Quests.7.text,The north cliffs hold better eggs. Glide from the north ledge.,Los riscos del norte guardan mejores huevos. Planea desde el borde norte.
+Quests.8.title,Take to the sky,Al cielo
+Quests.8.text,An adult dragon flies. Raise one and take off.,Un dragón adulto vuela. Cría uno y despega.
+Quests.9.title,Egg hunter,Cazador de huevos
+Quests.9.text,Five eggs found. You have the eye.,Cinco huevos encontrados. Tienes buen ojo.
+Quests.10.title,Ascension,Ascensión
+Quests.10.text,"Strong nest, strong rider. Ascend.","Nido fuerte, jinete fuerte. Asciende."
+Quests.11.title,Four dragons,Cuatro dragones
+Quests.11.text,Four hatched. The nest is getting loud.,Cuatro nacidos. El nido se pone ruidoso.
+Quests.12.title,Hot Springs,Termas
+Quests.12.text,Ride across the bridge. The springs are warm.,Cruza el puente montando. Las termas están calentitas.
+Quests.13.title,Six dragons,Seis dragones
+Quests.13.text,Six. I had six once.,Seis. Yo tuve seis una vez.
+Quests.14.title,The Elder,El Anciano
+Quests.14.text,Wait for the first elder. Patience is a rider's wing.,Espera al primer anciano. La paciencia es el ala del jinete.
+Quests.15.title,The Index,El Índice
+Quests.15.text,"Ten pages filled. Here - a Rare egg, my gift.","Diez páginas llenas. Toma - un huevo raro, mi regalo."
+Quests.16.title,Lost notes,Notas perdidas
+Quests.16.text,A storm took my notes on the Great Egg. One fell in the meadow.,Una tormenta se llevó mis notas sobre el Gran Huevo. Una cayó en la pradera.
+Quests.17.title,Cliff notes,Notas del acantilado
+Quests.17.text,The second note caught on the north cliffs. Glide and grab it.,La segunda nota quedó en los riscos del norte. Planea y tómala.
+Quests.18.title,Wet ink,Tinta mojada
+Quests.18.text,The third flew to the springs. Find it before the steam does.,La tercera voló a las termas. Encuéntrala antes que el vapor.
+Quests.19.title,High notes,Notas en lo alto
+Quests.19.text,The fourth is up on the summit. Only a flyer gets there.,La cuarta está en la cumbre. Solo un dragón volador llega allí.
+Quests.20.title,The Great Egg,El Gran Huevo
+Quests.20.text,The last note is behind my stall. Read it - and take what it hides.,La última nota está detrás de mi puesto. Léela - y toma lo que esconde.
+Quests.21.title,Warm ashes,Cenizas tibias
+Quests.21.text,My notes on the first {Ember} dragon blew off the plaza. One landed in the meadow.,Mis notas sobre el primer dragón {Ember} volaron de la plaza. Una cayó en la pradera.
+Quests.22.title,Smoke on the cliffs,Humo en los riscos
+Quests.22.text,"The second note is on the cliffs, still smoking. Glide down and grab it.","La segunda nota está en los riscos, todavía humeando. Baja planeando y tómala."
+Quests.23.title,Hot ink,Tinta caliente
+Quests.23.text,"The third drifted to the springs. Hot water, hot ink.","La tercera flotó hasta las termas. Agua caliente, tinta caliente."
+Quests.24.title,Embers above,Brasas en lo alto
+Quests.24.text,The fourth rode the heat up to the summit. Fly after it.,La cuarta subió con el calor hasta la cumbre. Vuela tras ella.
+Quests.25.title,The first flame,La primera llama
+Quests.25.text,The last note fell by my stall. Read it and keep the warmth.,La última nota cayó junto a mi puesto. Léela y guarda el calor.
+Quests.26.title,Pearl springs,Termas de perlas
+Quests.26.text,Pearls rise at the springs when stars fall. Bring me three Springs eggs.,Las perlas suben en las termas cuando caen estrellas. Tráeme tres huevos de las Termas.
+Quests.27.title,Born in weather,Nacidos del clima
+Quests.27.text,"Hatch a dragon in a storm, a starfall or an aurora. They come out different.","Eclosiona un dragón en una tormenta, una lluvia de estrellas o una aurora. Salen distintos."
+Quests.28.title,A bigger storm,Una tormenta mayor
+Quests.28.text,The {StormDragon} grew. Help catch 16 of its shards.,El {StormDragon} creció. Ayuda a atrapar 16 de sus fragmentos.
+Quests.29.title,Tidal winds,Vientos de marea
+Quests.29.text,The winds are strong this week. Fly through 10 wind rings.,Los vientos soplan fuerte esta semana. Vuela por 10 anillos de viento.
+Quests.30.title,Three more,Tres más
+Quests.30.text,Three new hatchlings since the pearls came. Show me.,Tres crías nuevas desde que llegaron las perlas. Muéstramelas.
+Quests.31.title,Night notes,Notas nocturnas
+Quests.31.text,The night wind took my last notes. One glows in the meadow.,El viento nocturno se llevó mis últimas notas. Una brilla en la pradera.
+Quests.32.title,Sunset cliffs,Riscos del ocaso
+Quests.32.text,"One hides on the cliffs, where the sun sets first.","Una se esconde en los riscos, donde el sol se pone primero."
+Quests.33.title,Moon on the water,Luna sobre el agua
+Quests.33.text,One floats by the springs. The moon shows the way.,Una flota junto a las termas. La luna marca el camino.
+Quests.34.title,Close to the stars,Cerca de las estrellas
+Quests.34.text,"One is up on the summit, closest to the stars.","Una está en la cumbre, lo más cerca de las estrellas."
+Quests.35.text,The last is by my stall. Read it under the night sky.,La última está junto a mi puesto. Léela bajo el cielo nocturno.
+Strings.Shop.lines.StarterPack_49_fixed,"Two Rare eggs of your chosen elements, a second incubator and a rider scarf. One per account","Dos huevos Raros de los elementos que elijas, una segunda incubadora y una bufanda de jinete. Uno por cuenta"
+Strings.Shop.starterFixed,Both eggs will be Rare,Los dos huevos serán Raros
+Strings.Shop.starterOdds,Odds for each egg: {list},Probabilidades de cada huevo: {list}
+Strings.Shop.starterRounded,Probabilities are rounded,Las probabilidades están redondeadas
+Strings.Shop.starterVariants,"Also for each egg: Shiny {shiny}, Big {big}, Huge {huge}","Además, en cada huevo: Brillante {shiny}, Grande {big}, Enorme {huge}"
+Strings.LiveOps.likeAsk,Enjoying the game? Give it a 👍,¿Te gusta el juego? Dale un 👍
+Strings.LiveOps.likeGoal,"At {n} likes, every rider gets a new code","Con {n} me gusta, cada jinete recibe un código nuevo"
+Strings.PassCard.chip.auto,Auto,Auto
+Strings.PassCard.forever,Buy once - keep it forever,Compra una vez y es tuyo para siempre
+Strings.PassCard.lines.AutoCollect_149.1,Nest coins go straight to your balance,Las monedas del nido van directo a tu saldo
+Strings.PassCard.lines.AutoCollect_149.2,No more flying back to collect,Ya no tienes que volar de vuelta a recogerlas
+Strings.PassCard.lines.AutoCollect_149.3,No pile cap while you play,Sin tope en el montón mientras juegas
+Strings.PassCard.lines.X2Coins_299.1,Your nest earns double coins,Tu nido gana el doble de monedas
+Strings.PassCard.lines.X2Coins_299.2,Every dragon you add earns double too,Cada dragón que añadas también gana el doble
+Strings.PassCard.lines.X2Coins_299.3,Stacks with VIP and coin boosts,Se suma a VIP y a los potenciadores de monedas
+Strings.PassCard.notNow,Not now,Ahora no
+Strings.PassCard.tag,GAME PASS,PASE DE JUEGO
+Strings.PassCard.whatYouGet,WHAT YOU GET,QUÉ RECIBES
+Strings.Steps.companion,TAKE,LLEVAR
+Strings.Hints.companionHint,Open Dragons - make it your companion,Abre Dragones y hazlo tu compañero
+Strings.Hints.grewInNest,Take it out and ride,Sácalo y móntalo
+Strings.Next.growThenRide,{name} grows up in {time} - then you can ride,{name} crece en {time}: luego podrás montarlo
+Strings.Next.growThenFly,{name} grows up in {time} - then you can fly,{name} crece en {time}: luego podrás volar
+Strings.Next.stormIn,{StormDragon} in {time},{StormDragon} en {time}
+Strings.Next.starfallNow,Starfall! Eggs respawn fast,¡Lluvia de estrellas! Los huevos reaparecen rápido
+Strings.Hints.gloomHint,Breathe at the Gloom,Lanza tu aliento a la Penumbra
+Strings.Hints.guardianHint,Purify the guardian before time runs out,Purifica al guardián antes de que se acabe el tiempo
+Strings.Hints.skyHint,Fly up - the Gloom took the sky,Vuela alto: la Penumbra tomó el cielo
+Strings.Steps.fight,FIGHT,LUCHA
+Strings.Combat.breath,BREATH,ALIENTO
+Strings.Combat.auto,AUTO,AUTO
+Strings.Combat.autoLocked,AUTO is free for group members,AUTO es gratis para miembros del grupo
+Strings.Combat.stage,Stage {k}/{n},Etapa {k}/{n}
+Strings.Combat.replay,The Gloom returns,La Penumbra regresa
+Strings.Combat.left,{n} left,Quedan {n}
+Strings.Combat.clear,Purified! +{n} coins,¡Purificado! +{n} monedas
+Strings.Combat.clearEgg,Purified! +{n} coins and an egg,¡Purificado! +{n} monedas y un huevo
+Strings.Combat.guardianWin,{name} purified!,¡{name} purificado!
+Strings.Combat.skyOpen,The sky islands are calling - fly up!,Las islas del cielo te llaman: ¡vuela!
+Strings.Combat.fail,The Gloom retreats. Try again in {s}s,La Penumbra se retira. Reintenta en {s} s
+Strings.Combat.muted,The Gloom chokes your breath!,¡La Penumbra ahoga tu aliento!
+Strings.Combat.stunned,Shockwave! Step out of the circle,¡Onda de choque! Sal del círculo
+Strings.Combat.help,You helped a friend! +{n} coins,¡Ayudaste a un amigo! +{n} monedas
+Strings.Combat.noDragon,Take your dragon with you,Lleva a tu dragón contigo
+Strings.Combat.noTarget,No Gloom nearby,No hay Penumbra cerca
+Strings.Combat.incoming,The Gloom is coming!,¡Llega la Penumbra!
+Strings.Combat.keeper,The Gloom creeps at the meadow edge. Let your little one breathe at it.,La Penumbra se arrastra al borde del prado. Deja que tu pequeño le lance su aliento.
+Strings.Combat.feedTip,Feed your dragon - x2 power while it's full,Alimenta a tu dragón: x2 de poder mientras esté lleno
+Strings.Combat.weakFeed,Stronger Gloom ahead - feed your dragon for x2 power,Se acerca una Penumbra más fuerte: alimenta a tu dragón para tener x2 de poder
+Strings.Combat.weakGrow,Your dragon must grow before the next Gloom,Tu dragón debe crecer antes de la próxima Penumbra
+Strings.Combat.weakStorm,The Storm Gloom waits - grow stronger and come back tomorrow,Storm Gloom te espera: hazte más fuerte y vuelve mañana
+Strings.GlowEgg.handsFull,Put your egg in an incubator first,Primero pon tu huevo en una incubadora
+Strings.Steps.glow,GLOW,BRILLO
+Strings.GlowEgg.free,The guards are gone - steal the egg!,Los guardianes se fueron: ¡roba el huevo!
+Strings.GlowEgg.guard,The Gloom guards the egg - defeat them!,La Penumbra protege el huevo: ¡derrótala!
+Strings.GlowEgg.ready,Your glowing egg is hatching!,¡Tu huevo brillante está naciendo!
+Strings.GlowEgg.hatchIn,Glowing dragon in {t},Dragón brillante en {t}
+Strings.GlowEgg.home,The Glowing Egg is safe at home!,¡El Huevo Brillante está a salvo en casa!
+Strings.GlowEgg.homeSub,Come back TOMORROW - your glowing dragon will hatch!,Vuelve MAÑANA: ¡nacerá tu dragón brillante!
+Strings.GlowEgg.take,You stole the Glowing Egg!,¡Robaste el Huevo Brillante!
+Strings.GlowEgg.takeSub,RUN HOME - the Gloom is chasing you! It hatches TOMORROW,"¡CORRE A CASA, la Penumbra te persigue! Nace MAÑANA"
+Strings.GlowEgg.tomorrow,Tomorrow: your Glowing Dragon hatches!,Mañana: ¡nace tu Dragón Brillante!
+Strings.GlowEgg.tomorrowNote,Not an ordinary dragon - it shines at night. Come back!,No es un dragón cualquiera: brilla de noche. ¡Vuelve!
+Strings.GlowEgg.spawn,A GOLDEN NEST WITH A GLOWING EGG!,¡UN NIDO DORADO CON UN HUEVO BRILLANTE!
+Strings.GlowEgg.spawnSub,A fairy-tale glowing dragon sleeps inside - follow the arrow!,Dentro duerme un dragón brillante de cuento: ¡sigue la flecha!
+Strings.Hints.glowEggHint,Sneak to the golden nest - the Gloom is asleep,Acércate al nido dorado: la Penumbra duerme
+Strings.GlowEgg.caught,CAUGHT!,¡TE ATRAPÓ!
+Strings.GlowEgg.caughtSub,The egg flew back to the golden nest - steal it again!,El huevo volvió al nido dorado: ¡róbalo otra vez!
+Strings.GlowEgg.escaped,You got away! Take the egg home,¡Escapaste! Lleva el huevo a casa
+Strings.GlowEgg.toShelf,Your egg went to the shelf at home,Tu huevo fue al estante de casa
+Strings.GlowEgg.run,RUN!,¡CORRE!
+Strings.GlowEgg.safe,SAFE!,¡A SALVO!
+Strings.GlowEgg.safeSub,You stole the glowing egg! It hatches TOMORROW,¡Robaste el huevo brillante! Nace MAÑANA
+Strings.GlowEgg.gateWait,Your dragon waits at the gate - sneak in on foot,Tu dragón espera en la puerta: acércate a pie
+Strings.GlowEgg.safeZone,SAFE ZONE,ZONA SEGURA
+Strings.Hints.glowHomeHint,Run home with the glowing egg!,¡Corre a casa con el huevo brillante!
+Strings.Hints.raidHint,Sneak to the Gloom nest - it is asleep,Acércate sigiloso al nido de la Penumbra: está dormida
+Strings.Hints.raidHomeHint,Run home with the egg!,¡Corre a casa con el huevo!
+Strings.Hints.raidDragonHint,Run to your dragon!,¡Corre hacia tu dragón!
+Strings.Hints.raidRideHint,Ride home - the egg hatches soon,Vuelve a casa montado: el huevo nace pronto
+Strings.Hints.raidWaitHint,Next egg in {t},Próximo huevo en {t}
+Strings.Steps.raid,RAID,ASALTO
+Strings.Raid.run,RUN!,¡CORRE!
+Strings.Raid.runHome,RUN HOME - the Gloom is chasing you!,¡CORRE A CASA! ¡La Penumbra te persigue!
+Strings.Raid.runDragon,RUN TO YOUR DRAGON!,¡CORRE HACIA TU DRAGÓN!
+Strings.Raid.safe,SAFE!,¡A SALVO!
+Strings.Raid.safeSub,You stole a {rarity} egg! It hatches in {t},¡Robaste un huevo {rarity}! Nace en {t}
+Strings.Raid.safeDragon,Your dragon scared the Gloom away - ride home!,¡Tu dragón ahuyentó a la Penumbra! Vuelve a casa montado
+Strings.Raid.caught,CAUGHT!,¡TE ATRAPÓ!
+Strings.Raid.caughtSub,The egg flew back to the nest - steal it again!,El huevo volvió al nido: ¡róbalo otra vez!
+Strings.Raid.escaped,You got away! Take the egg home,¡Escapaste! Lleva el huevo a casa
+Strings.Raid.gateWait,Your dragon won't go near the Gloom - sneak on foot,"Tu dragón no se acerca a la Penumbra: ve a pie, sigiloso"
+Strings.Raid.toShelf,Your egg went to the shelf at home,Tu huevo fue al estante de casa
+Strings.Raid.home,The egg is in your incubator!,¡El huevo está en tu incubadora!
+Strings.Raid.homeShelf,Incubators are full - the egg is on your shelf,Incubadoras llenas: el huevo está en tu estante
+Strings.Raid.eggLabel,{rarity} egg,Huevo {rarity}
+Strings.Raid.eggIn,Egg in {t},Huevo en {t}
+Strings.Raid.take,You stole a {rarity} egg!,¡Robaste un huevo {rarity}!
+Strings.Hints.raidFirstHint,Steal an egg from the sleeping Gloom - your first dragon!,¡Roba un huevo a la Penumbra dormida: tu primer dragón!
+Strings.GlowEgg.warm,Warm the egg,Calienta el huevo
+Strings.GlowEgg.warmHint,-1 h for {n} coins,-1 h por {n} monedas
+Strings.GlowEgg.warmed,Warmer! Your glowing dragon in {t},¡Más caliente! Tu dragón brillante en {t}
+Strings.Hints.warmHint,Warm your golden egg with coins,Calienta tu huevo dorado con monedas
+Strings.Hints.stallHint,Visit the Berry Stall - berries grow dragons 2x faster,Visita el Puesto de Bayas: las bayas hacen crecer dragones 2x más rápido
+Strings.GlowEgg.stepUp,Step up to the egg!,¡Acércate al huevo!
+Strings.Migr.spareEggs,Your {n} spare eggs turned into {coins} coins!,¡Tus {n} huevos de reserva se convirtieron en {coins} monedas!
+Strings.Hints.raidDayHint,Steal another egg - {n} left today,Roba otro huevo: quedan {n} hoy
+Strings.Raid.dayLeft,{n} more eggs today - the Gloom gets faster!,¡{n} huevos más hoy: la Penumbra se vuelve más rápida!
+Strings.Raid.dayLeftOne,Last egg today - the Gloom is at its fastest!,Último huevo de hoy: ¡la Penumbra está más rápida que nunca!
+Strings.Raid.dayDone,THAT'S ALL FOR TODAY!,¡ESO ES TODO POR HOY!
+Strings.Raid.dayDoneSub,Come back tomorrow - {n} new eggs to steal,Vuelve mañana: {n} huevos nuevos para robar
+Strings.GlowEgg.cardHatchIn,Hatches in {t},Eclosiona en {t}
+Strings.Raid.noRoom,No room at home - hatch an egg or unlock a bowl first,No hay sitio en casa: primero eclosiona un huevo o desbloquea una incubadora
+Strings.Social.inviteBonus,Invite a friend - you BOTH get an Epic dragon egg!,¡Invita a un amigo: los DOS reciben un huevo de dragón épico!
+Strings.Social.inviteHow,Egg for you both when your friend has played 10 min. Their account: 60+ days. Premium or verified: Legendary!,Huevo para los dos cuando tu amigo juegue 10 min. Su cuenta: 60+ días. Premium o verificada: ¡Legendario!
+Strings.Social.inviteEggEpic,an Epic dragon egg,un huevo de dragón épico
+Strings.Social.inviteEggLegendary,a Legendary dragon egg,un huevo de dragón legendario
+Strings.Social.yourFriend,your friend,tu amigo
+Strings.Social.inviteStay,Play 10 min - you and {name} BOTH get {egg}!,Juega 10 min: ¡tú y {name} reciben {egg}!
+Strings.Social.inviteFriendIn,{name} is here! After 10 min you BOTH get {egg},¡{name} llegó! En 10 min los DOS reciben {egg}
+Strings.Social.inviteTooNew,{name} is here! Their account is under 60 days - no egg gift this time,¡{name} llegó! Su cuenta tiene menos de 60 días: esta vez no hay huevo de regalo
+Strings.Social.inviteGot,FRIEND GIFT!,¡REGALO DE AMIGO!
+Strings.Social.inviteGotSub,You and {name} both got {egg}!,¡Tú y {name} recibieron {egg}!
+Strings.Social.inviteLimit,Friend gifts today: {n} of {n} - more tomorrow!,Regalos de amigos hoy: {n} de {n}. ¡Mañana hay más!

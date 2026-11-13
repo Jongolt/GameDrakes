@@ -1,0 +1,47 @@
+# English strings we do NOT translate: the Roblox machine translates them with the same words as the rest of Roblox (Shop, Settings,
+# Close, Back, Redeem come out as the usual Roblox words), so our translation would only conflict with it. Game words (Hatch, Treat,
+# Springs, Ride, Updraft...) the machine breaks into unrelated literal words - we translate those ourselves.
+# One line = one English text.
+Shop
+Settings
+Close
+Back
+Skip
+Tap to skip
+Music
+Sounds
+On
+Off
+Code
+Enter code
+Redeem
+Invite friends
+Play with friends
+Join
+Done
+Claim
+Claim!
+Claimed
+Owned
+Paused
+Locked
+Read
+Talk
+View
+Now
+Gifts
+Gift
+Open shop
+See price
+Rename
+Collect
+Coins
+Up
+Down
+Dragons
+Index
+Quests
+Still loading...
+Something went wrong
+Not allowed
+Waiting for network...

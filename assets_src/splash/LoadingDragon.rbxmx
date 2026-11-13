@@ -1,0 +1,48 @@
+<roblox version="4">
+  <Item class="Model" referent="0">
+    <Properties>
+      <string name="Name">LoadingDragon</string>
+      <Ref name="PrimaryPart">1</Ref>
+    </Properties>
+    <Item class="MeshPart" referent="1">
+      <Properties>
+        <string name="Name">geometry_0</string>
+        <bool name="Anchored">true</bool>
+        <CoordinateFrame name="CFrame">
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <R00>1</R00>
+          <R01>0</R01>
+          <R02>0</R02>
+          <R10>0</R10>
+          <R11>1</R11>
+          <R12>0</R12>
+          <R20>0</R20>
+          <R21>0</R21>
+          <R22>1</R22>
+        </CoordinateFrame>
+        <bool name="CanCollide">false</bool>
+        <bool name="CanQuery">false</bool>
+        <bool name="CanTouch">false</bool>
+        <bool name="CastShadow">false</bool>
+        <Vector3 name="InitialSize">
+          <X>1.001297</X>
+          <Y>0.51771545</Y>
+          <Z>0.9712982</Z>
+        </Vector3>
+        <Content name="MeshContent">
+          <uri>rbxassetid://138960038776022</uri>
+        </Content>
+        <Vector3 name="size">
+          <X>1.001297</X>
+          <Y>0.51771545</Y>
+          <Z>0.9712982</Z>
+        </Vector3>
+        <Content name="TextureContent">
+          <uri>rbxassetid://94120130742913</uri>
+        </Content>
+      </Properties>
+    </Item>
+  </Item>
+</roblox>
