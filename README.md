@@ -279,3 +279,5 @@ Live task status and the session log are kept with the design docs outside this 
 
 Everything else (code, world, dragons, texts, art direction) was made for this game. Some textures, dragon models and
 the store art were made with generative AI tools and then edited and checked in the game.
+
+[MIT License](./LICENSE)
