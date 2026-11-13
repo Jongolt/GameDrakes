@@ -278,4 +278,4 @@ Live task status and the session log are kept with the design docs outside this 
 - Fonts: Fredoka (SIL OFL 1.1), Luckiest Guy (Apache 2.0): `assets_src/fonts/`.
 
 Everything else (code, world, dragons, texts, art direction) was made for this game. Some textures, dragon models and
-the store art were made with generative AI tools and then edited and checked in the game. All rights reserved.
+the store art were made with generative AI tools and then edited and checked in the game.
